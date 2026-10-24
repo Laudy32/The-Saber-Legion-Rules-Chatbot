@@ -1,0 +1,321 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Saber Legion Rules Helper</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Oswald:wght@700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    color-scheme: light;
+    --bg: #ffffff;
+    --panel: #ffffff;
+    --border: #e9e9ea;
+    --text: #242a36;
+    --muted: #6b6f78;
+    --accent: #1f4fa8;
+    --gold: #2f8fff;
+    --user-bubble: #e6eefb;
+    --bot-bubble: #f4f5f7;
+    --error: #b3261e;
+  }
+  * { box-sizing: border-box; }
+  html, body {
+    height: 100%;
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }
+  body {
+    display: flex;
+    flex-direction: column;
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 0 12px;
+  }
+  header {
+    padding: 16px 4px 10px;
+    border-bottom: 3px solid var(--gold);
+  }
+  header .logo {
+    display: block;
+    height: 56px;
+    margin-bottom: 8px;
+  }
+  header h1 {
+    font-family: "Oswald", sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 1.45rem;
+    margin: 0 0 4px;
+  }
+  header p {
+    margin: 0;
+    color: var(--muted);
+    font-size: 0.85rem;
+    line-height: 1.4;
+  }
+  #messages {
+    flex: 1;
+    overflow-y: auto;
+    padding: 12px 4px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .msg {
+    max-width: 85%;
+    padding: 10px 13px;
+    border-radius: 12px;
+    line-height: 1.45;
+    font-size: 0.95rem;
+    white-space: pre-wrap;
+    overflow-wrap: anywhere;
+  }
+  .msg.user {
+    align-self: flex-end;
+    background: var(--user-bubble);
+    border-bottom-right-radius: 3px;
+  }
+  .msg.bot {
+    align-self: flex-start;
+    background: var(--bot-bubble);
+    border-bottom-left-radius: 3px;
+  }
+  .msg.bot.pending { color: var(--muted); }
+  .msg.bot.error { color: var(--error); }
+  #human-check {
+    display: flex;
+    justify-content: center;
+  }
+  .msg .detail {
+    margin-top: 6px;
+    font-size: 0.75rem;
+    color: var(--muted);
+  }
+  .msg.note {
+    align-self: center;
+    background: none;
+    color: var(--muted);
+    font-size: 0.85rem;
+    text-align: center;
+    max-width: 100%;
+  }
+  form {
+    display: flex;
+    gap: 8px;
+    padding: 10px 4px 14px;
+    border-top: 1px solid var(--border);
+  }
+  #question {
+    flex: 1;
+    min-width: 0;
+    padding: 10px 12px;
+    border-radius: 10px;
+    border: 1px solid var(--border);
+    background: var(--panel);
+    color: var(--text);
+    font-family: inherit;
+    font-size: 1rem;
+  }
+  #question:focus {
+    outline: 2px solid var(--accent);
+    outline-offset: -1px;
+  }
+  button {
+    padding: 10px 16px;
+    border-radius: 10px;
+    border: none;
+    background: var(--accent);
+    color: white;
+    font-family: inherit;
+    font-weight: 700;
+    font-size: 0.9rem;
+  }
+  button:disabled {
+    background: var(--border);
+    color: var(--muted);
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <img class="logo" src="logo.svg" alt="The Saber Legion">
+  <h1>Saber Legion — Rules Helper</h1>
+  <p>
+    Answers come from the official Saber Legion rulebook. Questions are sent to an AI
+    service (Google Gemini) to be answered, so please don't include personal
+    information. For anything high-stakes (a disputed call, safety, equipment
+    approval), ask a tournament director.
+  </p>
+</header>
+
+<div id="messages"></div>
+
+<div id="human-check"></div>
+
+<form id="composer">
+  <input id="question" type="text" placeholder="Ask about the rules…" autocomplete="off" maxlength="500">
+  <button id="send" type="submit">Ask</button>
+</form>
+
+<script>
+  // Set this to your Cloudflare Worker's address after deploying it (see worker/README.md).
+  const WORKER_URL = "";
+
+  // Public "site key" of the Cloudflare Turnstile human check (see worker/README.md).
+  // Leave empty to run without the human check.
+  const TURNSTILE_SITE_KEY = "";
+
+  const MAX_HISTORY_TURNS = 6;
+
+  const messagesEl = document.getElementById("messages");
+  const form = document.getElementById("composer");
+  const input = document.getElementById("question");
+  const sendBtn = document.getElementById("send");
+  const history = [];
+
+  function addMessage(className, text) {
+    const div = document.createElement("div");
+    div.className = "msg " + className;
+    div.textContent = text;
+    messagesEl.appendChild(div);
+    messagesEl.scrollTop = messagesEl.scrollHeight;
+    return div;
+  }
+
+  // A random ID kept in this browser, so the helper can limit how many questions one
+  // device asks. It identifies nothing about the person.
+  const deviceId = (() => {
+    const fresh = () =>
+      (crypto.randomUUID ? crypto.randomUUID() : Date.now().toString(36) + Math.random().toString(36).slice(2));
+    try {
+      let id = localStorage.getItem("rulesHelperDeviceId");
+      if (!id) {
+        id = fresh();
+        localStorage.setItem("rulesHelperDeviceId", id);
+      }
+      return id;
+    } catch {
+      return fresh();
+    }
+  })();
+
+  // Cloudflare Turnstile: usually invisible; shows a checkbox only if Cloudflare is unsure.
+  let humanWidget = null;
+  let tokenWaiter = null;
+
+  function settleToken(token, error) {
+    if (!tokenWaiter) return;
+    const waiter = tokenWaiter;
+    tokenWaiter = null;
+    clearTimeout(waiter.timer);
+    if (error) waiter.reject(error);
+    else waiter.resolve(token);
+  }
+
+  function loadHumanCheck() {
+    if (!TURNSTILE_SITE_KEY) return;
+    window.onHumanCheckLoad = () => {
+      humanWidget = turnstile.render("#human-check", {
+        sitekey: TURNSTILE_SITE_KEY,
+        execution: "execute",
+        appearance: "interaction-only",
+        callback: (token) => settleToken(token, null),
+        "error-callback": () => {
+          settleToken(null, new Error("Couldn't complete the human check. Please reload the page and try again."));
+          return true;
+        },
+      });
+    };
+    const script = document.createElement("script");
+    script.src = "https://challenges.cloudflare.com/turnstile/v0/api.js?render=explicit&onload=onHumanCheckLoad";
+    script.async = true;
+    document.head.appendChild(script);
+  }
+
+  function getHumanToken() {
+    if (!TURNSTILE_SITE_KEY) return Promise.resolve(null);
+    if (humanWidget === null) {
+      return Promise.reject(new Error("The human check hasn't loaded yet. Wait a moment, or reload the page, and try again."));
+    }
+    return new Promise((resolve, reject) => {
+      tokenWaiter = {
+        resolve,
+        reject,
+        timer: setTimeout(() => settleToken(null, new Error("The human check timed out. Please try again.")), 60000),
+      };
+      try {
+        turnstile.reset(humanWidget);
+        turnstile.execute(humanWidget);
+      } catch {
+        settleToken(null, new Error("Couldn't start the human check. Please reload the page and try again."));
+      }
+    });
+  }
+
+  function setBusy(busy) {
+    input.disabled = busy;
+    sendBtn.disabled = busy;
+    if (!busy) input.focus();
+  }
+
+  if (!WORKER_URL) {
+    addMessage("note", "This page isn't connected to its answer service yet. If you're setting it up, see worker/README.md.");
+    setBusy(true);
+  } else {
+    addMessage("note", "Ask anything about the Saber Legion rules — scoring, gear, conduct, a specific format…");
+    loadHumanCheck();
+    input.focus();
+  }
+
+  form.addEventListener("submit", async (e) => {
+    e.preventDefault();
+    const question = input.value.trim();
+    if (!question || !WORKER_URL) return;
+
+    input.value = "";
+    setBusy(true);
+    addMessage("user", question);
+    const botDiv = addMessage("bot pending", "Thinking…");
+
+    try {
+      const humanToken = await getHumanToken();
+      const res = await fetch(WORKER_URL, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ question, history: history.slice(-MAX_HISTORY_TURNS), deviceId, humanToken }),
+      });
+      const data = await res.json().catch(() => ({}));
+      if (!res.ok || !data.answer) {
+        const err = new Error(data.error || "Something went wrong. Please try again in a moment.");
+        err.detail = data.detail;
+        throw err;
+      }
+      botDiv.className = "msg bot";
+      botDiv.textContent = data.answer;
+      history.push({ role: "user", text: question }, { role: "assistant", text: data.answer });
+    } catch (err) {
+      botDiv.className = "msg bot error";
+      botDiv.textContent = err instanceof TypeError
+        ? "Couldn't reach the rules helper — check your internet connection and try again."
+        : err.message;
+      if (err.detail) {
+        const detail = document.createElement("div");
+        detail.className = "detail";
+        detail.textContent = "Details (for whoever maintains this page): " + err.detail;
+        botDiv.appendChild(detail);
+      }
+    }
+
+    messagesEl.scrollTop = messagesEl.scrollHeight;
+    setBusy(false);
+  });
+</script>
+
+</body>
+</html>
