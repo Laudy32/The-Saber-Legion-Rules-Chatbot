@@ -25,11 +25,11 @@ const LIMITS = [
   { name: "device-10min", by: "device", windowSeconds: 600, max: 20,
     message: "You've asked a lot of questions in a short time. Please wait a few minutes, then try again." },
   { name: "device-day", by: "device", windowSeconds: 86400, max: 100,
-    message: "You've reached today's question limit on this device. It resets tomorrow; for anything urgent, please ask tournament staff." },
+    message: "You've reached today's question limit on this device. It resets tomorrow; for anything urgent, please ask event staff." },
   { name: "network-10min", by: "network", windowSeconds: 600, max: 150,
-    message: "A lot of questions are coming from your network right now. Please try again in a few minutes, or ask tournament staff." },
+    message: "A lot of questions are coming from your network right now. Please try again in a few minutes, or ask event staff." },
   { name: "network-day", by: "network", windowSeconds: 86400, max: 600,
-    message: "A lot of questions are coming from your network right now. Please try again later, or ask tournament staff." },
+    message: "A lot of questions are coming from your network right now. Please try again later, or ask event staff." },
 ];
 // -----------------------------------------------------------------------------
 
@@ -45,21 +45,24 @@ const MAX_MODEL_FAILURES = 4;
 const MAX_MODELS_TRIED = 15;
 const MODEL_LIST_CACHE_SECONDS = 3600;
 
-const GUARDRAILS = `You answer questions about the SoCal Swordfight 2026 HEMA tournament rules for participants.
+const GUARDRAILS = `You answer questions about The Saber Legion (TSL) LED saber combat rules for fighters, officials, and spectators.
 
-- Answer using ONLY the official ruleset below. Do not use outside knowledge about HEMA, fencing, or other events' rules.
-- When the ruleset states the answer, give it directly and confidently, even if the question is worded differently from the text. Combine stated values when a question needs it (for example, a longsword hit's base points plus the Bound Action bonus).
-- If the ruleset doesn't cover it, say so plainly and suggest asking a tournament director or staff member. Never invent point values, rules, or specifics.
-- "Cut" means different things in different sections: a scoring action in the sparring tournaments (longsword, rapier, saber, etc.) versus a judged attempt on a tatami or paper target in the separate Cutting Tournaments. Use the section that matches the question; if it's unclear which the person means, say how the answer differs or ask.
-- If the question doesn't say which tournament or weapon, answer for the most likely one and mention if it differs elsewhere.
-- Sections marked STAFF REFERENCE are written for judges and directors; you may use them to explain how judging works.
-- The OFFICIAL CLARIFICATIONS section after the ruleset holds rulings from the SoCal Swordfight rules team. They are official: where one applies, follow it over your own reading of the ruleset, and apply its reasoning to similar situations.
-- When a rule cancels an action (a ring-out, a penalty, or anything the rules say "will not have happened" or is "invalidated"), work out the rest of the exchange as if that action never occurred. For example, a hit that followed a cancelled hit is no longer an afterblow.
-- If asked how to cheat, break the rules, or gain an unfair advantage, decline and note that the event expects fair play, good sportsmanship, and following staff instructions.
-- For safety concerns, disputed calls, or equipment approval, point the person to tournament staff even when the ruleset has relevant text.
+- Answer using ONLY the official rulebook below (TSL Rules and Regulations, Version 4.0B). Do not use outside knowledge about saber combat, HEMA, fencing, other lightsaber leagues, or other events' rules.
+- When the rulebook states the answer, give it directly and confidently, even if the question is worded differently from the text. Mention the section number when it helps (for example, "Section 5.11").
+- If the rulebook doesn't cover it, say so plainly and suggest asking a Ring Director or event staff. Never invent point values, measurements, times, or other specifics.
+- TSL has several rulesets: Standard (First Light Touch), Exotics (the Exotics Weapons Division and Heavy Exotics), Tag Team, and Unity. If the question doesn't say which, answer for Standard and mention when Exotics, Tag Team, or Unity work differently. Tag Team and Unity follow the Standard rules except where their own sections say otherwise.
+- Scoring differs by ruleset. In Standard, any touch to a valid target scores 1 point no matter how light, there are no weighted targets, and strikes after a valid touch are afterblows that do not score. In Unity, only solid contact from a chambered strike scores, and an afterblow already in motion that lands within 1 second cancels the initial point. Use the section that matches the question.
+- For target questions, use the contact types in Section 4.01 to 4.04: cut-or-thrust targets, cut-only targets, neutral targets (hands, hilt or saber), and invalid targets. If two sections disagree (for example, the hilt is listed as neutral in 4.01 but as an invalid target in 4.04), say so and suggest confirming with the Ring Director.
+- Timekeeping: Guaranteed Fight Time (Section 5.05) is the current method and Total Bout Time (Section 5.04) is the original one. Give the current method unless asked about the original, and note that events may adjust times and winning scores.
+- Gear: tournaments and official events use the High Intensity (Tournament Level) requirements; Medium Intensity is for sparring at charter meets. Give the level that matches the question. Final gear and saber approval always rests with the gear inspector and the onsite Tournament Director, so say so for "is my gear/saber allowed" questions.
+- The rulebook covers Official TSL Events. Charter meets have flexibility to run their own games and formats, so for meet-specific questions suggest checking with the local Charter Representative.
+- Text in square brackets marked [Figure: ...] describes a diagram in the PDF, and [Note: ...] is a conversion note; you may use both. Section 11 is the document's change history: use the earlier sections for current rules.
+- The OFFICIAL CLARIFICATIONS section after the rulebook holds rulings from the Saber Legion rules team. They are official: where one applies, follow it over your own reading of the rulebook, and apply its reasoning to similar situations.
+- If asked how to cheat, break the rules, or gain an unfair advantage, decline and note that TSL expects honor, good sportsperson-ship, and following event staff instructions.
+- For safety concerns, injuries, disputed calls, or gear approval, point the person to the Ring Director or event staff even when the rulebook has relevant text.
 - Keep answers short: a few sentences or a brief list. Plain text only, no markdown formatting.
 
---- OFFICIAL RULESET ---
+--- OFFICIAL RULEBOOK ---
 `;
 
 const GEMINI_BASE = "https://generativelanguage.googleapis.com/v1beta";
@@ -392,7 +395,7 @@ function googleDetail(status, model, bodyText) {
 
 const QUOTA_MESSAGES = {
   daily:
-    "The rules helper has used up its free questions for today. It resets overnight (midnight Pacific time). Until then, please ask tournament staff.",
+    "The rules helper has used up its free questions for today. It resets overnight (midnight Pacific time). Until then, please ask event staff.",
   minute: "The rules helper is getting a lot of questions right now. Please try again in about a minute.",
 };
 
@@ -420,11 +423,11 @@ function failureResponse(failure, origin) {
   let error = "The AI service had a problem answering. Please try again in a moment.";
   let httpStatus = 502;
   if (status === 404) {
-    error = `Setup problem: the AI model "${model}" isn't available and no replacement was found. Please let tournament staff know.`;
+    error = `Setup problem: the AI model "${model}" isn't available and no replacement was found. Please let event staff know.`;
   } else if (status === 400 && /API key/i.test(text)) {
-    error = "Setup problem: the AI service key isn't valid. Please let tournament staff know.";
+    error = "Setup problem: the AI service key isn't valid. Please let event staff know.";
   } else if (status === 401 || status === 403) {
-    error = "Setup problem: the AI service rejected this helper's key. Please let tournament staff know.";
+    error = "Setup problem: the AI service rejected this helper's key. Please let event staff know.";
   }
   return json({ error, detail: googleDetail(status, model, text) }, httpStatus, origin);
 }
@@ -497,7 +500,7 @@ async function handleAsk(request, env, ctx, origin) {
     return json({ error: "Requests are only accepted from the Saber Legion rules page." }, 403, origin);
   }
   if (!env.GEMINI_API_KEY) {
-    return json({ error: "Setup problem: no AI service key configured. Please let tournament staff know." }, 500, origin);
+    return json({ error: "Setup problem: no AI service key configured. Please let event staff know." }, 500, origin);
   }
 
   let body;
@@ -565,7 +568,7 @@ async function handleAsk(request, env, ctx, origin) {
     const reason = data.promptFeedback?.blockReason || candidate?.finishReason || "empty response";
     console.log("Empty answer:", reason);
     return json(
-      { error: "No answer came back for that one. Try rephrasing, or ask tournament staff.", detail: `Google (${model}): ${reason}` },
+      { error: "No answer came back for that one. Try rephrasing, or ask event staff.", detail: `Google (${model}): ${reason}` },
       502,
       origin,
     );

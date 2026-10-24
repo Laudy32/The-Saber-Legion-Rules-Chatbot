@@ -1,11 +1,10 @@
-# SoCal Swordfight Rules Helper — venue kiosk (Ollama + Open WebUI)
+# Saber Legion Rules Helper — event kiosk (Ollama + Open WebUI)
 
-The authoritative version: runs locally on a laptop with the **complete,
-verbatim** 2026 ruleset (all 13 official documents, ~30k tokens) as its
-knowledge source — no summarizing, no compromises. This is what should be
-running at the SoCal Swordfight info table. It needs no internet at all
-once set up. For the free, install-nothing web version people can use from
-home beforehand, see `../web/`.
+The offline version: runs locally on a laptop with the **complete** Saber
+Legion rulebook (Version 4.0B, about 32,000 tokens) as its knowledge source.
+It needs no internet at all once set up, so it suits an event info table
+with unreliable WiFi. For the free, install-nothing web version people can
+use from anywhere, see `../web/`.
 
 ## One-time setup (do this before the event, on the laptop that will run the kiosk)
 
@@ -20,8 +19,10 @@ home beforehand, see `../web/`.
    upload methods don't preserve.)
 
    This pulls a base model (`llama3.1:8b` by default) and bakes the full
-   ruleset in as its system prompt, producing a model called
-   `swordfight-rules`. On a weaker laptop, use a smaller base model instead:
+   rulebook in as its system prompt, producing a model called
+   `saber-legion-rules`. It uses a 49,152-token context so the whole
+   rulebook fits, which needs a fair amount of memory (16 GB of RAM or
+   more is comfortable). On a weaker laptop, use a smaller base model:
    ```
    bash build-model.sh llama3.2:3b
    ```
@@ -40,7 +41,7 @@ home beforehand, see `../web/`.
    https://docs.openwebui.com for current options.)
 4. Open `http://localhost:3000`, create a local admin account (this stays
    on the laptop, no internet needed after Docker/pip install), and select
-   **swordfight-rules** as the model in a new chat. Confirm it answers
+   **saber-legion-rules** as the model in a new chat. Confirm it answers
    correctly and declines out-of-scope questions.
 5. Optional but recommended for a walk-up kiosk: set the browser to open
    directly to that chat in full-screen/kiosk mode, so a volunteer never
@@ -50,29 +51,25 @@ home beforehand, see `../web/`.
 
 Just have the laptop on, with Open WebUI already running (step 3 stays up
 in the background) and the browser open to the chat. No internet needed —
-everything (model + ruleset + interface) runs locally.
+everything (model + rulebook + interface) runs locally.
 
-## Before the event: test on the actual hardware you'll use at the venue
+## Before the event: test on the actual hardware you'll use
 
 - Confirm response speed is acceptable with a real conversation, on the
-  actual laptop (not a faster dev machine) — the "Verification" section
-  of the main plan covers this. If `llama3.1:8b` is too slow, drop to
-  `llama3.2:3b` and rebuild.
-- Confirm it stays grounded in the ruleset and doesn't answer from general
-  HEMA knowledge when the ruleset doesn't cover something.
+  actual laptop (not a faster dev machine). If `llama3.1:8b` is too slow,
+  drop to `llama3.2:3b` and rebuild.
+- Confirm it stays grounded in the rulebook and doesn't answer from general
+  saber or fencing knowledge when the rulebook doesn't cover something.
 
-## Updating the rules (e.g. for a 2027 revision)
+## Updating the rules (e.g. for a new rulebook version)
 
-1. Save each updated rules page as a `.webarchive` (Safari: File > Save As
-   > Web Archive) or plain `.html`.
-2. Re-run the same extraction approach used to build `rules-full.txt` for
-   2026: unpack each file (`.webarchive` is a binary plist with the page's
-   HTML in `WebMainResource.WebResourceData`), isolate the
-   `documentation-div` section, strip HTML tags down to plain text, and
-   concatenate all documents into one file with clear `## Section` headers
-   between them (matching the format already in `rules-full.txt`).
-3. Replace `rules-full.txt` with the new version.
-4. Re-run `bash build-model.sh` to rebuild the `swordfight-rules` model with
-   the updated content.
-5. Commit the new `rules-full.txt` to GitHub — the web version reads this
+1. Convert the new rulebook PDF to plain text in the same format as
+   `rules-full.txt`: `## Section N` and `### Section N.NN` headers, the
+   table of contents and repeated page footer removed, tables written as
+   lists, and anything shown only in a picture described as
+   `[Figure: ...]`. (Asking Claude to do this works well.)
+2. Replace `rules-full.txt` with the new version.
+3. Re-run `bash build-model.sh` to rebuild the `saber-legion-rules` model
+   with the updated content.
+4. Commit the new `rules-full.txt` to GitHub — the web version reads this
    same file and picks up the change automatically within about an hour.

@@ -28,7 +28,7 @@ between them, and change one line on GitHub.
 - **API key** — a long code that works like a password for Google's AI. Treat it like a password: don't post it or share it.
 - **Worker** — the small middleman program described above.
 - **Deploy** — Cloudflare's word for "save and switch on."
-- **Repository** (or **repo**) — a project's home on GitHub. This one is at `github.com/Laudy32/SoCal-Swordfight-Rules-Chatbot`.
+- **Repository** (or **repo**) — a project's home on GitHub. This one is at `github.com/Laudy32/The-Saber-Legion-Rules-Chatbot`.
 - **Commit** — GitHub's word for "save this change."
 
 ---
@@ -50,7 +50,7 @@ You can close this tab.
 ## Part 2 — Create the Worker on Cloudflare
 
 ### 2a. Get a copy of the Worker's code
-1. Go to **github.com/Laudy32/SoCal-Swordfight-Rules-Chatbot**.
+1. Go to **github.com/Laudy32/The-Saber-Legion-Rules-Chatbot**.
 2. In the list of folders and files, click the folder named **worker**.
 3. Click the file named **worker.js**. Its contents appear on screen.
 4. Near the top right of the file's contents, find the **Copy raw file** button (an icon of two overlapping squares — hovering over it shows the name) and click it. The whole file is now copied.
@@ -65,19 +65,19 @@ You can close this tab.
 1. In Cloudflare's left-hand menu, click **Workers & Pages**. (If you don't see it, it may be inside a section called **Compute** — click that first.)
 2. Click the **Create** button (sometimes **Create application**).
 3. Choose **Create Worker** or **Start with Hello World!** — whichever is offered. It's a sample to replace.
-4. There's a box to name the Worker. Type: `socal-swordfight-rules`
+4. There's a box to name the Worker. Type: `saber-legion-rules`
 5. Click **Deploy**. Cloudflare creates a sample Worker.
 6. Click **Edit code** (sometimes **Continue to project**, then **Edit code**). A code editor opens, with some sample code in it.
 7. Click inside the code area. Select all of it — on Mac press **⌘ Command + A**, on Windows press **Ctrl + A**. Delete it with the Delete/Backspace key. The code area should now be empty.
-8. Paste the code you copied in step 2a — on Mac **⌘ Command + V**, on Windows **Ctrl + V**. The first line should start with `// SoCal Swordfight Rules Helper`.
+8. Paste the code you copied in step 2a — on Mac **⌘ Command + V**, on Windows **Ctrl + V**. The first line should start with `// Saber Legion Rules Helper`.
 9. Click **Deploy** (usually at the top right). Confirm if it asks.
 10. Find your Worker's web address — shown near the top of the editor or on the Worker's main page. It looks like
-    `https://socal-swordfight-rules.YOUR-NAME.workers.dev`
+    `https://saber-legion-rules.YOUR-NAME.workers.dev`
     (with your own account name instead of `YOUR-NAME`). Copy it and paste it into your text note next to the API key. You'll need it in Part 5.
 
 ## Part 3 — Give the Worker your API key
 
-1. Go back to the Worker's main page in Cloudflare (click the Worker's name, `socal-swordfight-rules`, at the top of the editor, or find it again under **Workers & Pages**).
+1. Go back to the Worker's main page in Cloudflare (click the Worker's name, `saber-legion-rules`, at the top of the editor, or find it again under **Workers & Pages**).
 2. Click the **Settings** tab.
 3. Find the section called **Variables and Secrets** and click **Add** (or **+ Add**).
 4. For **Type**, choose **Secret** (not "Text"). This keeps the key hidden, even from you, once saved.
@@ -98,7 +98,7 @@ You can close this tab.
 
 ## Part 5 — Connect the web page to the Worker
 
-1. Go to **github.com/Laudy32/SoCal-Swordfight-Rules-Chatbot** and make sure you're signed in to GitHub.
+1. Go to **github.com/Laudy32/The-Saber-Legion-Rules-Chatbot** and make sure you're signed in to GitHub.
 2. Click the folder **web**, then click the file **index.html**.
 3. Near the top right of the file's contents, click the **pencil icon** (hovering over it says "Edit this file"). The file becomes editable.
 4. Find this line — it's about two-thirds of the way down. To search, press **⌘ Command + F** (Mac) or **Ctrl + F** (Windows) and type `WORKER_URL`:
@@ -107,7 +107,7 @@ You can close this tab.
    ```
 5. Click between the two quote marks `""` and paste your Worker's address, so the line looks like:
    ```
-   const WORKER_URL = "https://socal-swordfight-rules.YOUR-NAME.workers.dev";
+   const WORKER_URL = "https://saber-legion-rules.YOUR-NAME.workers.dev";
    ```
    Be careful to keep both quote marks and the semicolon `;` at the end.
 6. Click the green **Commit changes…** button (top right).
@@ -116,8 +116,8 @@ You can close this tab.
 
 ## Part 6 — Try it
 
-1. Go to **laudy32.github.io/SoCal-Swordfight-Rules-Chatbot**
-2. Type a question, such as "How many points is a cut to the head in longsword?", and click **Ask**. After a few seconds, an answer should appear (3 points).
+1. Go to **laudy32.github.io/The-Saber-Legion-Rules-Chatbot**
+2. Type a question, such as "Can I thrust to the thigh?", and click **Ask**. After a few seconds, an answer should appear (no: thighs are cut-only targets).
 3. For a fuller check, see `HOW_TO_TEST.md` in the repo.
 4. If the page still says it "isn't connected to its answer service yet," wait another minute, then refresh the page. If it still says that, redo Part 5 and check the address is between the quote marks.
 
@@ -128,7 +128,7 @@ You can delete the text note now (or keep the API key somewhere safe, like a pas
 ## Part 7 — Turn on abuse protection
 
 This stops anyone from using up the day's free questions on purpose. It has two pieces:
-- **A limit per device and per network:** one device can ask 20 questions per 10 minutes and 100 per day. One network (for example a whole venue's WiFi, which everyone there shares) can ask 150 per 10 minutes and 600 per day. The counts are kept in a small free Cloudflare database called `socal-swordfight-rules-limits`, which already exists in your account. It stores only scrambled codes, never anyone's real internet address.
+- **A limit per device and per network:** one device can ask 20 questions per 10 minutes and 100 per day. One network (for example a whole event's WiFi, which everyone there shares) can ask 150 per 10 minutes and 600 per day. The counts are kept in a small free Cloudflare database called `saber-legion-rules-limits`, which already exists in your account. It stores only scrambled codes, never anyone's real internet address.
 - **A human check (Cloudflare Turnstile):** proves each question comes from a real person on the rules page, not an automated script. Most people never see it. Occasionally someone may be asked to tick a box.
 
 Do these steps in this order. The chatbot keeps working normally at every step.
@@ -137,18 +137,18 @@ Do these steps in this order. The chatbot keeps working normally at every step.
 If you've already pasted the version that contains `LIMITS_DB`, skip this. To check: in GitHub open `worker/worker.js`, and in Cloudflare open the Worker's **Edit code** view. Press **⌘ Command + F** (Mac) or **Ctrl + F** (Windows) in each and search for `LIMITS_DB`. If Cloudflare's copy doesn't have it, redo Part 2a, then Part 2c steps 6–9.
 
 ### 7b. Connect the database to the Worker
-1. Go to **dash.cloudflare.com** → **Workers & Pages** (it may be inside **Compute**) → click **socal-swordfight-rules**.
+1. Go to **dash.cloudflare.com** → **Workers & Pages** (it may be inside **Compute**) → click **saber-legion-rules**.
 2. Click the **Settings** tab.
 3. Find the section called **Bindings** and click **Add** (or **+ Add binding**).
 4. From the list of types, choose **D1 database**.
 5. For **Variable name**, type exactly: `LIMITS_DB`
-6. For **D1 database**, choose **socal-swordfight-rules-limits** from the dropdown.
+6. For **D1 database**, choose **saber-legion-rules-limits** from the dropdown.
 7. Click **Add Binding** (or **Save** / **Deploy**).
 
 ### 7c. Create the human check
 1. In Cloudflare's left-hand menu, click **Turnstile**. If you can't find it, type `Turnstile` into the search box at the top of the dashboard.
 2. Click **Add widget** (sometimes **Add site**).
-3. **Widget name:** `SoCal Swordfight rules helper`
+3. **Widget name:** `Saber Legion rules helper`
 4. **Hostnames:** click **Add hostnames** (or the box for hostnames), type `laudy32.github.io`, and add it.
 5. **Widget mode:** choose **Managed**.
 6. If asked about **pre-clearance**, choose **No**.
@@ -195,7 +195,7 @@ Common messages:
 - **"has used up its free questions for today"** — every model's free daily allowance is used up. It resets by itself at midnight Pacific time. See **Free usage limits** below if this happens often.
 - **"Setup problem: the AI model … isn't available and no replacement was found"** — normally you'll never see this: when Google retires a model, the Worker automatically switches to another available Flash model. If it does appear, open the Worker's address in your browser (as in Part 4) and send the `"model"` section to whoever helps maintain the chatbot.
 - **"Setup problem: the AI service key isn't valid"** or **"rejected this helper's key"** — make a new key (Part 1) and put it in the Worker (Part 3; edit the existing `GEMINI_API_KEY` entry instead of adding a new one).
-- **"Requests are only accepted from the SoCal Swordfight rules page"** — the web page's address changed. Ask someone comfortable editing code to add the new address to the `ALLOWED_ORIGINS` list near the top of `worker.js`.
+- **"Requests are only accepted from the Saber Legion rules page"** — the web page's address changed. Ask someone comfortable editing code to add the new address to the `ALLOWED_ORIGINS` list near the top of `worker.js`.
 
 Cloudflare's **Logs** tab on the Worker's page shows technical details, useful if you ask someone else for help.
 
@@ -204,8 +204,8 @@ Cloudflare's **Logs** tab on the Worker's page shows technical details, useful i
   1. Go to **ai.dev/usage?tab=rate-limit** and sign in with the same Google account you used in Part 1.
   2. The page lists each model with its limits: **RPM** (requests per minute) and **RPD** (requests per day). Add up the RPD numbers for the models with "flash" in the name — that's roughly how many questions the chatbot can answer per day.
   For example, in September 2026 the free plan allowed **20 per day** for each of six Flash models (about 120 top-quality answers a day), and **500 per day** each for Gemini 3.1 Flash Lite and 3.5 Flash Lite — roughly **1,100 questions a day** in total, most of them answered by Flash-Lite. Each Flash model also allows only **5 per minute**. These numbers change, so check the page.
-  If that isn't enough for the tournament, the fix is Google's paid plan with a spending limit set. That costs real money, so it's a decision for the organizers — ask whoever maintains the chatbot to work out the likely cost first.
+  If that isn't enough for an event, the fix is Google's paid plan with a spending limit set. That costs real money, so it's a decision for the organizers — ask whoever maintains the chatbot to work out the likely cost first.
 - **Privacy:** questions people type are sent to Google to be answered, and Google may use free-plan requests to improve its products. The chat page says this and asks people not to type personal information.
 - **Misuse:** the Worker only accepts questions from the rules page and only answers rules questions, so it's not useful to anyone as a general free chatbot. The worst case from misuse is using up the day's free allowance — never a bill, as long as billing stays off (Part 1, step 8).
-- **New rules next year:** replace `kiosk/rules-full.txt` in the repo with the new rulebook. The Worker picks up the new text by itself within about an hour — nothing to change here.
-- **Internet needed:** only the short question and answer travel over the phone's connection (the big rulebook goes from Cloudflare to Google), so weak WiFi usually works. For a fully offline option at the venue, see the kiosk setup in `kiosk/README.md`.
+- **New rulebook version:** replace `kiosk/rules-full.txt` in the repo with the new rulebook. The Worker picks up the new text by itself within about an hour — nothing to change here.
+- **Internet needed:** only the short question and answer travel over the phone's connection (the big rulebook goes from Cloudflare to Google), so weak WiFi usually works. For a fully offline option at an event, see the kiosk setup in `kiosk/README.md`.

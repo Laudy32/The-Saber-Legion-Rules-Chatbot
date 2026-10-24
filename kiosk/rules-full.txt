@@ -1,2 +1,1368 @@
-SABER LEGION — RULEBOOK (placeholder)
-The official Saber Legion rulebook has not been added yet.
+THE SABER LEGION — RULES AND REGULATIONS, VERSION 4.0B (full reference)
+This file is the complete text of The Saber Legion, LLC. Rules and Regulations,
+Version 4.0B (official release and implementation date Sep. 6, 2024), converted
+from the official PDF ("version_4.0b_ruleset_update_9-5.pdf"). Text is verbatim;
+only line breaks, page numbers, the repeated page footer, and the table of contents
+were removed, and tables were laid out as lists. Information that appears only in a
+picture or diagram in the PDF is described in square brackets as [Figure: ...].
+Editorial notes added during conversion are marked [Note: ...].
+
+Repeated page footer (applies to the whole document): The Saber Legion (TSL) is a
+full contact custom saber dueling organization. Due to the possible dangers of full
+contact saber combat ALL participants must waive any and all injury liability against
+TSL, its members and any locations used for TSL events. Persons under the age of 18
+must have expressed consent from their parent(s) or legal guardian(s). © The Saber
+Legion, LLC April 10th, 2023
+============================================================
+
+## Title Page and Credits
+
+The Saber Legion, LLC.
+Rules and Regulations
+Version 4.0B
+Official Release Date Sep. 6, 2024
+Implementation Date: Sep. 6, 2024
+
+The Saber Legion was founded by Terry Roland Birnbaum II and Josh Linden
+Original Rulesets Version 1.0-2.0 Written by Aaron Rieley
+Version 4.0 and 3.0 Written by the Sports Management Team
+Team Lead for 4.0 & 3.0: Melodie Graham, Copy Editor: Seth Clendenning
+Graphics by Jared Graham, Aaron Rieley, Melodie Graham
+Sports Management Team revisions and approvals by: Alec Martinez, Clint Darby, Gilbert Charles Gordon, Tiffiny Hagan, Mark Carico, Nathan Pumphery, Russell William, and Seth Clendenning.
+Specific Gear Updates: Mark Carico and Alec Martinez
+Exotics Updates and Creator Light Division: Jared Graham and Seth Clendenning
+Creator Tag Team Variant Ruleset: Aaron Rieley and Terry Roland Birnbaum II
+Updates: Sports Management 2023
+Creator Unity Variation: Alain Bloch and David Laudenslager with updates and revisions by Melodie Graham
+Approvals by the Leadership Council: Charley Cummings, Erik Haltson, Jared Graham, David Laudenslager, and Melodie Graham
+
+------------------------------------------------------------
+
+## Welcome to The Saber Legion
+
+This document was created to address the growth of our organization while providing clarity with how events are organized within The Saber Legion (TSL). This document will also define the rules that pertain to the official TSL events. We have expanded far beyond our monthly meets and the Annual International Tournament to see official TSL events hosted nearly every month by our amazing charters. This document is to serve as a guideline for those organizing these events and those attending them. Our goal is to provide support and consistency to this thriving sport and make sure it continues to be within the scope and vision of TSL.
+
+If any Member plans on attending official events outside of their local charter meets, it is recommended that the Member spend some time practicing with the following rules and guidelines with their charter to help familiarize yourself with the rules, gear level, and expectations that will be in place at these events. Charter meets have a large amount of flexibility to play with games, ideas, and formats within the safety guidelines specified in that agreement, hence allowing for flexibility for experimentation and local training per the needs/wants of a local charter. The rules in this document pertain specifically to Official TSL Events outside of your regular charter meets.
+
+Our governing ruleset is encapsulated in this document and guided by the Mission, Vision, and Values of TSL. The MVV was developed in 2020 and sets the bar for all rules, sports regulations, and community standards going forward.
+MVV Team: Jared Graham and team members Dan MacGregor, Kristen McConnell, Michael Montgomery, Aaron Rieley, Tony Saffioti, Jimmy Sourile, Joe Strange, and Phil Swift
+
+Our Rules document is by no means a final version. Just as TSL grows, this document will grow and change over the years to reflect new formats and rules updates as needed. Additional Documents have been written to help with the needs of TSL and communicate our standards and tools:
+★ Hold Harmless and Membership Agreement: Must be signed by all fighters before training with any charter or competing in any events or community shared opportunities.
+★ Charter Representative Handbook
+★ Judging Training and Certification: Hosted on Facebook platform (originally written by Aaron Rieley currently hosted by Melodie Graham).
+★ Consular Training and Certification: Application only, hosted on Facebook Classrooms
+★ Gear Inspections and Training Certification: In Development
+★ Event Planning and Requirements by Charter Reps and Host: Written by Melodie Graham: posted to Charter Reps group page
+
+Feel free to send any thoughts, ideas, and reflections about the current rules; what they do well and what they can do better to the form contact. It has always been a TSL goal to safely offer something for everyone within our budding community. The events being hosted by our incredible charters have made this possible much sooner and on a grander scope than we ever expected! If you can find a way to travel to any of these events, we urge you to meet with your fellow Members. Your participation is what builds the TSL community around the world!
+
+- Together we can truly be United Through Sabers!
+
+Charley Cummings
+Owner and National Director
+
+------------------------------------------------------------
+
+## Section 1 Combat Sabers Utilized in The Saber Legion
+
+Standard Saber is the most common weapon used in The Saber Legion. When purchasing your first saber make sure to review these requirements first. The Saber Legion is a LED saber combat sport hence your saber should reflect the requirements listed here when attending charter meets and sparring.
+
+### Section 1.01 All Combat Saber Requirements
+
+1. Unless otherwise noted, all sabers must meet the following requirements regardless of whether the event is using Standard Saber or Exotic Saber weapon rulesets. Please consult with your onsite charter representative at your local meet if you have questions. When attending an event, all saber hilts and blades must be inspected and approved by the Tournament Director, FCC, C.I.T, Gear Inspector, and/or Event Coordinator. The onsite Official Tournament Director always has the final say.
+2. Saber hilts and blades must consist of parts from approved saber manufacturers or otherwise be approved by the gear inspection staff.
+3. Homemade hilts or parts cannot be used without the approval of the Research & Development section of Sports Management as they have not been tested and may place Members in danger.
+4. Saber blades must light up at the start of any match. A colored blade (aka day blade) does not count as being illuminated.
+5. Heavy grade blades only. A polycarbonate tube (referred to as PC) with a 1" diameter and wall thickness of 1/8" or 3mm must be used.
+6. Saber blades that use blade-internal LED strings are allowed, they must still illuminate and be of heavy grade PC construction.
+7. "Clear" blades must be diffused. No clear blades without diffuser film, a blade diffuser, or sufficient sanding will be allowed. "Trans white" blades might be allowed with no diffuser or film upon inspections if found to be "trans" enough to keep the led from shining through and possibly being used to "blind" an opponent.
+8. Blade tips must be mirrored (no shine-through tips allowed).
+9. Round and Parabolic tips only (No bullet or pointed tips allowed).
+   [Figure: three blade tip shapes — "Rounded tip: allowed", "Parabolic tip: allowed", "Bullet tip: not allowed".]
+10. All tips must be taped, or heat shrink wrapped to reduce the risk of the tip coming off.
+11. Tournaments will mark with tape where your blade is seated to show it has been approved and meets the requirements.
+12. No additional pieces may be taped to a hilt to extend or repair a hilt.
+13. Any guard or tsuba between 2.5" and 3.5" in diameter must be at minimum 1/8" thick aluminum or steel, or 3/8" thick polycarbonate, and may have no angles sharper than 90 degrees.
+   a. While The Saber Legion allows for 1/8'' thick aluminum, we advise that saber tsubas are 1/4" thick.
+   b. SAFETY: Upon inspection, any tsuba may be determined unsafe or unusable due to factors including (but not limited to) bending, warping, dents, cracks, stress points, weak welds, abrasions, sharp edges, shards, or splinters, as tsubas with these fractures may have higher point of failure and can be declined just as helmets with dents or significant impact fractures.
+   c. Tsubas not integrated with the hilt must not shift laterally along the blade or hilt more than .0625" when a gear inspector attempts to move it by hand
+   d. Any piece designed to hold a Tsuba in place will be considered part of the hilt measurement.
+   [Figure: "TSUBAS" box — 3.5" max diameter; any shape; smooth or rounded edges; 1/4" thick minimum; polycarbonate, aluminum, or steel.]
+   [Figure: "Hilt Measurement / Blade Measurement" diagram — a built-in tsuba counts as part of the hilt; a separate tsuba with blade collar must be pressed flush against the hilt with no separation, and is measured as part of the hilt; the blade is measured from where it leaves the hilt/tsuba.]
+14. Any metal protruding more than 1" from the saber body with any angle sharper than 90 degrees is considered a claw or protrusion and is prohibited as a danger to skin and blades.
+15. Absolutely no claws, sharp or hard-edged protrusions are allowed on sabers or gear. This includes metal quillons.
+
+### Section 1.02 Standard Saber Requirements – All Sabers
+
+1. Any metal hilt with a single blade.
+2. Max hilt length is 16" (measured from the end of the pommel to the tip of the emitter).
+3. Handguard max size is 3.5" in any direction and must adhere to the "claws" rule.
+4. Max total saber length is 51" (measured while the blade is fully seated in the emitter).
+5. No blade is to be shorter than 21" or longer than 39" (measured fully seated in the emitter).
+[Figure: standard saber diagram — blade length range 21"-39"; maximum saber length with blade 51"; rounded, secure tip only; all hand guards max diameter 3.5" in any direction, no metal quillons or sharp corners; 16" max hilt length, no spikes, claws or sharp quillons.]
+[Figure: "Irregular or angled emitters" — measure hilts and blades to their longest points.]
+
+### Section 1.03 Exotic Saber
+
+With this ruleset, we allow a variety of non-standard saber configurations. Careful attention has been paid to ensure safety as well as parity between saber types. Exotics participation is open to all TSL Members.
+1. Exotics bouts require that the Fighters start and reset for every exchange in opposite corners of the ring. This can be any opposite corners, not necessarily the same corners they started the bout in.
+2. Exotics is now divided into two different tournament types. Both tournament types will use the same procedures for matches. However, they will be separated by saber lengths and hand requirements. These will be classified as LIGHT Exotics and HEAVY Exotics. Going forward Exotics Light is now referred to as the Exotics Weapons Division and Heavy will remain as an option in CS, Demo or Community events.
+
+### Section 1.03a Exotics Structure Difference: Bout Holds
+
+1. When a "Hold" is called the Fighters will disengage and reset to corners each time the match is stopped.
+2. Once the "Hold" is resolved the Ring Director will once again ask "Fighters Ready?" and then resume the action with the word "Fight!".
+
+### Section 1.03b Exotics Weapons (previously Light) defined
+
+a. all weapons will not measure over 59 inches overall (except for Staff, at 82 inches overall), and therefore will allow for one-handed saber use.
+
+### Section 1.03c Heavy Exotics defined
+
+b. will mandate that the fighter keep two hands on the saber while trying to score a point as the saber is of greater length and reach has more potential for loss of control.
+
+3. If there are other hilt requests, please submit your ideas to The Saber Legion Research and Development section of the Sports Management Team for review no later than 120 days prior to the event for which you wish to use the saber. These may be completed using the Comments Box on the Saber Legion page or through Facebook Messenger contact.
+
+### Section 1.04 Exotic Saber Requirements - Saber Pike
+
+SABER PIKE
+Saber Pikes can utilize the maxed out standard saber size for the hilt and can choose to replace a longer blade length. The length of the blade, choice of 1 or 2 handed, and whether you want a tsuba will determine your division.
+
+EXOTICS WEAPONS DIVISION (FORMERLY LIGHT) — Saber Pike:
+● Any hilt not shorter than 16", but not longer than 36", with a single blade.
+● Not to be longer than 59" total length.
+● No blades shorter than 22" (measured fully seated in the emitter).
+● Tsubas (or similar handguards) are allowed only if the metal hilt (including tsuba/guard) is not longer than 20"
+[Figure: blade length 22"-39"; hilt length 16"-37"; overall max length 59"; tsubas allowed only if the hilt is 20" or shorter.]
+[Note: the figure says hilt 16"-37" while the text says not longer than 36".]
+
+HEAVY EXOTICS — Saber Pike:
+● Any hilt not shorter than 16", but not longer than 44", with a single blade.
+● Not to be longer than 72" total length.
+● No blades shorter than 22" (measured fully seated in the emitter).
+● No Tsubas (or similar handguards) allowed
+[Figure: blade length 22"-39"; hilt length 16"-44"; overall max length 72"; tsubas allowed: No.]
+
+### Section 1.05 Exotic Saber Requirements - Saber Staff
+
+CAN BE USED IN BOTH
+SABER STAFF — Qualifies for both Light and Heavy Exotics Types
+● Any hilt, not to be longer than 36", with 2 blades of equal length on opposite sides.
+● Not to be longer than 82" total length.
+● No blade shorter than 22" (measured fully seated in its emitter).
+● No Tsubas (or similar hand guards) allowed.
+[Figure: blades of equal lengths, minimum 22"; hilt length maximum 36"; overall max length 82"; tsubas allowed: No.]
+
+### Section 1.06 Exotic Saber Requirements - Dual Wield
+
+SABER DUAL WIELD — Overall Length will determine your division.
+
+EXOTICS WEAPONS DIVISION (FORMERLY LIGHT) — Dual Wield:
+● Any 2 sabers wielded at the same time
+● No hilt length greater than 16" (including crossguard if one is used)
+● Total length of both sabers not to exceed 82" measured end-to-end with the blades fully seated in the emitters
+● No main blade shorter than 8" measured fully seated in the emitter (does not apply to crossguard guard blades)
+● Only one crossguard saber may be used per dual wield pair
+● Crossguard guards may only protrude from the main hilt body ranging from 90° to 45° forward angles
+● Any guard exceeding 10" horizontal width (measured perpendicular from centerline, 5" per side) is considered Guard Excess, and must be subtracted from Combined Total Overall Length
+● Dual Wield crossguard metal or polycarbonate saber guards must not exceed 12" (horizontal measured perpendicular from blade centerline, 6" per side) and both sides must be equal
+● Polycarbonate guards must be rounded tip or parabolic tip. Metal guards must be free of points or sharp edges and are subject to Director's approval
+[Figure: blade length 8"-39"; hilt length maximum 16"; combined overall max length 82"; tsubas allowed: Yes; only one crossguard saber per dual wield pair. Crossguard in dual wield: main blade maximum 39"; hilt length maximum 16"; guards at 90° to 45° forward angles only; horizontal width 10" (5" per side) measured perpendicular from main blade centerline; maximum width including excess 12" (6" per side); guard width greater than 10" deducts from maximum overall combined length — maximum combined length 82" minus Guard L Excess (if any) minus Guard R Excess (if any) = combined total overall length.]
+
+HEAVY EXOTICS — Dual Wield:
+● Any 2 sabers wielded at the same time.
+● No single hilt to be longer than 16".
+● Total length of both sabers not to exceed 84", measured with the blades fully seated in the emitters (this includes all saber blades and all guards if applicable).
+● No blade shorter than 8" measured fully seated in the emitter (except for guards, see crossguard saber section for clarification on guards).
+[Figure: blade length 8"-39"; hilt length 8"-16"; combined overall max length 84"; tsubas allowed: Yes.]
+
+### Section 1.07 Exotic Saber Requirements - Crossguard/Great Sword Saber
+
+SABER CROSSGUARD / GREAT SWORD — Overall Length will determine your division.
+
+EXOTICS WEAPONS DIVISION (FORMERLY LIGHT) — Crossguard/Great Sword:
+● Guards must be equal length on both sides
+● Guards may only protrude from the main hilt body ranging from 90° to 45° forward angles
+● No metal may exceed 12" total (6" per side measured perpendicular from centerline)
+● Any guard exceeding 10" horizontal width (measured perpendicular from centerline) is considered Guard Excess, and must be subtracted from Total Overall Length
+● Polycarbonate guards must be rounded tip or parabolic tip. Metal guards must be free of points or sharp edges and are subject to Director's approval.
+[Figure: maximum 59" minus Guard L Excess (if any) minus Guard R Excess (if any) = total overall length; main blade maximum 39"; hilt length maximum 20"; horizontal width 10" measured 90° (perpendicular) from main blade centerline; guard left must be equal to guard right; guards at 90° to 45° forward angles only; a guard within 5" per side has no guard excess; tsubas allowed: No.]
+
+HEAVY EXOTICS — Crossguard/Great Sword:
+● Any saber hilt, not to be longer than 44", with side guards (Any length of the "handguard" (metal portion only) that exceeds the 3.5" standard is added to hilt length).
+● If the hilt is over 16", no blade shorter than 22" (measured fully seated in its emitter).
+● If the hilt is 16" or less, no blade shorter than 8" (measured fully seated in its emitter).
+● Minimum polycarbonate side guard length of 3" measured fully seated in their emitters (the only exception is if both guards have a flush blade plug, so only the metal portions are being used), Maximum guard blade length of 6".
+● Total blade length (including side guards) not to exceed 50" measured while all blades are fully seated in their emitters.
+● Not to be longer than 72" total length (includes guards and "handguard excess").
+● Side guard tips must also be rounded. No bullet or pointed tips are allowed.
+● No additional Tsubas (or similar handguards) allowed
+[Figure: guard left + guard right + main blade = blades total (maximum 50"); guard left must be equal to guard right (minimum 3"); hilt length + hilt width - 3.5" = hilt total (maximum 44"); hilt total + blades total = combined overall (maximum 72"); tsubas allowed: No.]
+
+------------------------------------------------------------
+
+## Section 2 Gear for Participation in The Saber Legion
+
+In previous Rulesets, the description of the Gear has been part of a different document; however, as The Saber Legion continues to revise and update policies as well as work with representatives from around the Legion to standardize practices, we are including here a full listing of the regulations and categorizations for all sparring types. This section establishes the philosophy of each part of the equipment and requirements for each protective piece rather than promoting specific brands or models of equipment. This will serve to inform both those who are performing protective equipment inspections and those who wish to purchase/utilize protective equipment. The equipment in this section is meant to build on each other and when not otherwise stated all equipment from previous levels will be worn at later levels. All required armor must be permanently attached in some way to the method of attachment to the body, e.g. armor may not be taped or tied on (excluding armor that is designed to be tied to the body, such as a kendo do). Percentages are given for speed and power of strikes, as this changes from person to person, good communication between sparring partners or fighters and judges is important. Due to safety concerns, TSL does not recommend anyone at any level to fight, compete, or spar in the 90%-100% range.
+
+### Section 2.01 Why do we require protective gear?
+
+The goal of protective equipment is to first and foremost protect the user from being permanently injured, not to prevent all pain or minor injury. Due to the nature of the sport, it must be understood that pain or minor injuries will occur, and the armor must be outfitted and worn to a level at which the user can accept the risk of pain or minor injuries. This is a physical impact sport, and no gear can prevent all injuries or pain. This is one of the reasons all members are required to sign a Hold Harmless agreement, to inform the member and remind them that all sports carry the potential for injury, including LED Saber Combat.
+
+The second reason and the main reason for the minimal gear set to be established is to protect the organization. As The Saber Legion is a corporation, a certain level of protection must be established for insurance purposes and to preserve the organization.
+
+Of Special Note: ALL ARMOR IS SUBJECT TO QUALIFIED A GEAR INSPECTOR'S DISCRETION
+
+### Section 2.02 Armor Requirements
+
+### Section 2.02a Level 1 ARMOR
+
+Level 1 cannot be substituted for Level 2 armor. Level 1 is constituted by armor that will compress or contort under impact or other force and will reform its shape after being struck but will provide enough compression to absorb enough force to prevent injury. All unlisted materials are subject to the gear inspector's discretion; however, the unlisted materials need to imitate the protective properties of the listed material. Layered protection is not advised, but when approved must provide the same level of protection as non-layered protection. All foams must be covered in an abrasion-resistant material.
+● Hardened leather will require inspection before each use - any broken/damaged equipment will be denied as acceptable.
+● Due to manufacturing differences of impact foam, gear inspectors should use discretion. The materials when struck should have similar resistance to the above material and must be covered in an abrasion-resistant material.
+● Layers of quilted linen or other similar fabric (should be a minimum 1/4in thick fully compressed, construction should be done in such a way as to render the individual layers immobile independent of each other, must not compress under finger pressure, subject to gear inspector's discretion)
+
+Level 1 material minimum thickness table (Material — Thickness — Thickness Metric (mm)):
+- Closed Cell Foam — .375 inch — 9.525
+- Leather Hardened/Unhardened * — 9 oz — 3.6
+- Impact Foam ** — .125 inch — 3.175
+- Gambeson/Layered Fabric *** — 20 Layers/.25 inch — 6.35
+
+### Section 2.02b Level 2 ARMOR
+
+Level 2 armor is considered any material or whole armor piece that is constructed in such a way as to be stiff enough to prevent injury. All metal armor must be covered by suitably thick fabric or leather so as to not tear open when struck, to prevent damage to blades. All unlisted materials are subject to the gear inspector's discretion; however, the unlisted materials should imitate the protective properties of the listed material. Any layered protection must be made in such a way as to have the same properties as the non-layered protection. It is also of note that curved Level 2 material or Level 2 material that may have rolled edges may be thinner while still maintaining equal strength to the thicker material, this will be left to the gear inspector's discretion. All measurements are minimums.
+
+Single-layer Level 2 armor:
+● This material will require inspection before each use - any broken/damaged equipment will be denied as acceptable.
+● Due to manufacturing differences, gear inspector's discretion is required and should, when struck, have similar resistance to the above material and must be covered in an abrasion-resistant material.
+● Layers of quilted linen or other similar fabric (should be a minimum 3/8in thick fully compressed, construction should be done in such a way as to render the individual layers immobile independent of each other, must not compress under finger pressure, subject to gear inspector's discretion)
+
+Level 2 material minimum thickness table (Material — Thickness — Thickness Metric (mm)):
+- Unhardened Leather — 13 oz — 5.4
+- Hardened Leather* — 9 oz — 3.6
+- Kydex — .093 inch — 2.362
+- Stainless Steel — 22 g — .7
+- Mild Steel — 20 g — .9
+- Aluminum, Copper, Brass — 16g — 1.6
+- ABS Plastic — .1875 inch — 4.762
+- HDPE — .125 inch — 3.175
+- Impact Foam/Gel ** — .25 inch — 6.35
+- Gambeson/Layered Fabric *** — 30 layers/.375 inch — 9.525
+
+Multi-Layer Level 2 armor examples:
+● Plastic backed leather armor
+● Covered metal armor (e.g. covering metal in abrasion-resistant fabric or leather)
+● Lamellar/scale armor
+● Coat of Plates Visby style gauntlets
+● Layered stitched leather
+
+### Section 2.03 Coverage By Level
+
+The goal of this section is to establish minimal coverage by level and by area of the body being discussed. As there are varying levels of gear to fit different circumstances of partner or group interactions; the required gear and use cases will be expanded on in this section. Excluding partner drills and otherwise specified gear, the equipment in this section is meant to build on each other and when not otherwise stated all equipment from previous levels will be worn at later levels. All required armor must be permanently attached in some way to the method of attachment to the body, e.g., armor may not be taped or tied on (excluding armor that is designed to be tied to the body, such as a kendo do).
+[Figure: intensity thermometer — Low Intensity (green), Medium Intensity (yellow), High Intensity (red).]
+
+### Section 2.03a Solo/Partner exercises
+
+Required Gear for this Level: Solo/Partner exercises
+At this level the eyes must be covered by
+● full seal ANZI Z87.1 goggles or F803 Sports Eyewear,
+● Level 1 GLOVES: must protect dorsal side of the hand, and outside (from the radial zone of the wrist across the back to the ulnar zone)
+This form of interaction is as low intensity as possible and is only done to create a base level understanding of a technique or drill and should not be done with any intention of striking either of the users and so great care should be taken at this level.
+Examples of Exercise and Drills for Charter Meets at this Level:
+1. Cuts, Strikes, and Follow up Strikes
+2. Practice Guards, Shoulder movement
+3. Practices for foot movement, Forward and Reverse Lunges
+4. Techniques like lunges and slips
+5. Slow practice and/or practice with inanimate objects like chairs, pells or heavy bags
+
+### Section 2.03b Medium Level Sparring: Intensity Medium
+
+At the Medium level, fighters should start developing their own starter kit for sparring at meets and begin learning how to calibrate their attacks. This should happen with the charter representative or their empowered delegate(s) at Charter meets. Medium Level fighters should work on "a touch" mentality, like in Olympic fencing, as they have minimal ability to prevent long-term injury and impact.
+
+This form of interaction should be exercised at moderate level intensity, while the goal is never to cause damage to the opponent, there should be care taken to wear appropriate gear for the type of intensity to be expected. This level is the beginning of a "sparring" type interaction.
+Examples of Exercise and Drills for Charter Meets at this Level: Everything above+
+1. Medium Sparring attacks (not to exceed 50% of fighters' swing speed/power).
+2. Counters to opponents' attacks (medium speed and intensity)
+3. Responding to the sabers pressure
+4. Multiple cuts including head strikes
+5. Strikes as the opponent's approach
+
+Required Gear for this Level: MEDIUM INTENSITY SPARRING
+FENCING OR APPROVED HEMA HELMET REQUIRED
+LEVEL 1 (shown in BLUE on the diagram):
+➢ FINGERS/HAND: dorsal side of the hand, and outside (from the radial zone of the wrist across the back to the ulnar zone)
+➢ CHEST PIECE: Shoulders, collar bones, chest
+➢ FOREARM (the Ulna, and a minimum of half of the forearm)
+➢ THROAT: 180 degree / 360 when joined with back of head and mask
+➢ SHIN (tibia & front half of the calf) must be covered with Level 1 armor.
+LEVEL 2 (shown in RED on the diagram):
+❖ STERNUM
+❖ GROIN
+❖ ELBOW: (olecranon and epicondyles)
+❖ KNEE: (Patella, lateral collateral ligament, and medial collateral ligament)
+[Figure: "Medium Intensity Sparring Requirements" front and back body diagram — Level 1: fingers/hands, chest, forearm, throat, shin; Level 2: fencing or approved HEMA mask, sternum, groin, elbow, knees. Notes on the diagram: shoulder padding when leaning in should protect the front deltoid from impact; gloves should not have worn-down holes exposing joints or tendons.]
+
+### Section 2.03c Tournament Level Sparring: Intensity Level HIGH
+
+This form of interaction should be exercised at a full and competitive speed; however, care should be made to not cause injury to the opponent. Nevertheless, the injury should be treated as an ever-present danger. This is the highest level of force in the LED combat sport hence requiring the highest level of protection. As the Saber Legion accepts fighters from all backgrounds, trained and untrained, this level of competitive sparring can be different than formats that allow combatants to practice offensive and defensive planned attacks. Attacks can come from multiple formats therefore all fighters should exercise the highest level of caution.
+Required Gear for this Level: HIGH INTENSITY SPARRING
+Examples: Everything above+
+1. Tournament Level Sparring at meets
+2. Championship Level / Underground Filmed Event Structure
+3. Open Pools at Regional or International Events.
+
+1. FENCING OR APPROVE HEMA HELMET REQUIRED
+   A. ADDITION: BACK OF HEAD:
+      a. Level 2 LEVEL: when looking straight on at the back of the helmet no gaps larger than an inch wide and covering down to the c7-t1 junction.
+   B. When the throat armor and helmet with the back of head protection are worn in conjunction there must not be any unarmored parts of the head or neck.
+Level 1
+➢ CHEST PIECE: Shoulders, collar bones, chest
+➢ FOREARM (the Ulna, and a minimum of half of the forearm)
+➢ SHIN (tibia & front half of the calf) must be covered with Level 1 armor.
+Level 2
+❖ THROAT: full coverage from collarbone to base of the chin if the user is looking straight ahead also down to the jugular notch in the front and covering the connection of the spine to the neck c7-t1 vertebrates)
+❖ FINGERS/HAND: dorsal side of the hand, and outside (from the radial zone of the wrist across the back to the ulnar zone) must be protected by Level 2 armor
+❖ STERNUM
+❖ GROIN
+❖ ELBOW: (olecranon and epicondyles),
+❖ KNEE: (Patella, lateral collateral ligament, and medial collateral ligament).
+[Figure: "High Intensity Sparring/Tournament Requirements" front and back body diagram — Level 1: chest, forearm, shin; Level 2: fencing or approved HEMA mask, back of head, fingers/hands (Level 2 gloves), throat, sternum, groin, elbow, knees.]
+
+### Section 2.04 Specific by Piece information
+
+### Section 2.04a Head: Medium Intensity and Above +
+
+Armor Description:
+The head must be covered by a fencing style helmet, either 350N (a CEN rated mask with 350N rating on the bib and 600N on the mesh), 3 weapons, coaches, or HEMA in style.
+The bib must be Level 1, it should have resilience to it (some older or cheaper helmets have only 1-2 layers of puncture-resistant material and these will not be approved).
+The helmet must be free of holes and rust. Specifically, these occur underneath the rubber or elastic ring around the face.
+Fit and Wear:
+● The helmet should have enough movement on the head to allow for force absorption, however, under force should not touch the user's face when pressed on with the force of one hand.
+● The helmet should move freely when the head is shaken; however, it should not move far enough to become dislodged on the head.
+● If the "grill" touches the wearer's face in any way the mask is too big.
+● If the mask does not sit completely on the head such that the bib covers the throat all the way under the chin it is too small.
+● Dents of more than a half-inch or larger than 2.5 inches in diameter or length will render the helmet unusable.
+● No helmet substitutions will be allowed, including helmets made of sheet metal.
+Previous Approved Examples: AF Deluxe HEMA Fencing Mask, AF EPEE CE 350 N MASK: ADVANCED
+
+### Section 2.04b Back of Head: High Intensity and Above Levels
+
+Armor Description:
+Must be constructed of Level 2 material (as defined above).
+Must cover the entire back of the skull (small gaps above the head are to be expected with some designs and are allowed provided they cover the back of the skull is still covered).
+Fit and Wear:
+● The BOH must be attached in such a way that there is no risk of the BOH being removed or otherwise exposing the back of the skull during the bout.
+● The attachment of the BOH must not weaken the helmet in any way.
+● The BOH must cover the areas previously described throughout the range of motion of the head.
+Previous Approved Examples: SPES Back of the Head Protector, Absolute Force – Deluxe Leather Helmet Cover
+
+### Section 2.04c Throat: Medium Intensity and above +
+
+THROAT: Throat armor, commonly referred to by the name gorget, must be worn during heavy sparring and tournament sparring. However, it is recommended at all levels of sparring. There are two levels of gorgets.
+Armor Description:
+Sparring gorgets must be constructed of Level 1 or Level 2 material to exclude impact foam or gambeson material.
+Fit and Wear:
+● sparring gorgets must cover the entire front of the throat from sternum to chin if the user's head is pointed straight forward.
+● A well-fitting gorget should not slip and turn on the neck, it must stay comfortably in place while not being too tight. A good fit will not allow a 1" saber blade between the gorget and the neck.
+Previous Approved Examples: Red Dragon Gorget, AF HEMA Neck Protector
+
+### Section 2.04d Throat: High Intensity and Above Levels
+
+THROAT: Throat armor, commonly referred to by the name gorget, must be worn during heavy sparring and tournament sparring. However, it is recommended at all levels of sparring. There are two levels of gorgets.
+Armor Description:
+Heavy Intensity/Tournament gorgets must be constructed of Level 2 material to exclude impact foam or gambeson material.
+Previous Approved Examples: Red Dragon Gorget, AF HEMA Neck Protector
+Fit and Wear:
+● Gorgets must cover the entire throat from sternum to chin in the front and c7-t1 vertebrae to mid-neck in the back.
+● There are two ways to wear tournament-style gorgets:
+  ○ First, the more preferable way, the gorget should be fit to the chest protection in such a way that the gorget is not moved independently of the chest protection so that the gorget may impact the throat during a normal strike. If the gorget is worn in this way, the gorget may be worn loosely but should be worn in such a way that it minimally moves during a match.
+  ○ Secondly, the gorget can be worn independent of the chest protector. If worn in this way, the Level 2 material of the gorget must be supplemented by Level 1 protection that does not cover the windpipe in such a way that the throat is not impacted or minimally impacted during a strike and the gorget moves minimally during a bout.
+● A well-fitting gorget should not slip and turn on the neck, it must stay comfortably in place while not being too tight. A good fit will not allow a 1" saber blade between the gorget and the neck.
+
+### Section 2.04e Torso: Medium Intensity and above +
+
+The torso CHEST - SHOULDERS – SPINE
+Shoulders — Armor Description: The collarbones must be covered by level 1 armor. Fit and Wear: The socket of shoulders must be covered from the front and the top by level 1 armor. The armor is shown for each person's skeletal anatomy to be through the coracoclavicular Ligament to the Acromion.
+Chest — Armor Description: The sternum (from the xiphoid process to the collar bones) must be covered by level 2 material covering 1 inch to either side onto the pectoral muscles and 1 inch below the xiphoid process. Fit and Wear: Sternal protection must be worn tightly so as to not allow independent movement away from the protected area and to not allow a saber blade to pass underneath.
+Spine — Armor Description: The upper half of the spine to the base of the neck must be covered by either level 1 armor, level 2 armor, or a suitable HEMA style jacket. Previous Approved Examples: SPES AP Jacket Pro 350N ONLY with Torso Protection
+[Figure: anatomy diagrams — shoulder coverage over the clavicle and acromion; sternum coverage from the jugular notch down past the xiphoid process; spine coverage from the base of the skull (C1-C7) down across the upper back.]
+
+### Section 2.04f Elbow and Forearm: Medium Intensity and above +
+
+ELBOWS — Armor Description: The Elbows must be covered by level 2 material covering the elbow itself and both sides as previously described.
+FOREARM — Armor Description: The Forearm must be covered, as previously described by level 1 armor.
+Fit and Wear:
+● These parts of arm armor must be worn in such a way as to ensure that the armor does not move enough to uncover the required protected areas.
+● The level 1 or level 2 material of the glove may be substituted for forearm protection so long as the required areas are still covered by those gloves.
+Previous Approved Examples: Jacket attachments, Warrior Evo Pro AP Lacrosse Arm Guards - '19 Model
+
+### Section 2.04g Groin: Medium Intensity and above +
+
+Armor Description:
+● Level 2 groin protection is required to exclude impact foam and gambeson material.
+● Female Fighters may wear impact foam groin protection measuring at least 2 cm in density.
+● Groin protection may be worn inside or outside of other clothing depending on the design.
+● Both Male & Female Fighters are required to wear groin protection.
+Fit and Wear:
+● Groin protection is required for all competitors at any level of sparring or competition. The user should choose what groin protection fits them best.
+● Skirts, Kilts, Tare, or other such clothing may not be used to replace the groin protection as the movement allowed may not maintain proper coverage.
+● Groin protection should be worn tight enough to keep it in place throughout the bout.
+● Groin protection should provide full coverage for all appropriate genitalia and the pubis bones.
+Previous Approved Examples: Shock Doctor Core Loose Hockey Shorts with Pelvic Protector, Jock Strap
+
+### Section 2.04h Knee & Shin: Medium Intensity and above +
+
+KNEE — Armor Description: The full frontal view of the knee is required to be covered by level 2 material.
+SHIN — Armor Description: Shin protection must provide full coverage to the front of the shin and calf muscle with either level 1 or level 2 material
+Fit and Wear:
+KNEE
+● Knee protection must be worn tight enough to keep the required area covered throughout the bout.
+● Knee protection must not move away from the knee throughout the full range of motion, including during a deep lunge
+SHIN: Coverage must extend from the knee protection to the top of the foot or shoe if worn
+Previous Approved Examples: Kvetun Armoury leg guards, BMX MTB Knee/Shin Pad
+
+### Section 2.04i Gloves: Low Intensity and above +
+
+All Gloves are up to Gear Inspector's discretion, testing criteria for unknown material gloves are as follows:
+Step 1: the Gear Inspector (GI) will fit their hand as well as possible into the gloves in question (if the GI has much larger hands then possible to fit into the gloves in question then the gear inspector should fit their hands in as much as possible to test the material of the glove).
+Step 2: the GI should hold a saber hilt in the gloved hand.
+Step 3: the GI should hold a blade or full saber of max or close to max length in the opposing hand.
+Step 4: striking with the tip of the blade the GI should deliver moderate strikes to the portion of the glove over their hand and hold the hilt mentioned in step 2.
+Step 5: if the GI should feel any sharp pains or enough force coming through the material that there is reasonable concern that the gloves will not prevent damage to the user's fingers then the GI should disqualify the gloves from use.
+[Figure: "Gloves by Level" — Level 1 glove thickness: 3-7 mm (.12-.27 inches) impact foam; Level 2 glove thickness: 8 mm+ (.31 inches+) impact foam.]
+Armor Description:
+● Proper gloves are required for all levels of sparring.
+● Gloves must be made of level 2 armor (most quality lacrosse and hockey gloves from a reputable manufacturer either use a layered design with traditional rigid parts over impact foam, some use just impact foam or similar)
+Fit and Wear:
+● Gloves must cover the entire "outside" of the hand meaning the dorsal side and the outside and bones of the wrist.
+● Gloves should fit tightly enough not to slip off the user or become misaligned during a bout.
+
+### Section 2.05 DIY Armor
+
+Do-it-yourself armor, or otherwise homemade or custom made armor must conform to the above descriptions of required armor. Any additional armor can be added, but the base level requirements must be met. Custom attachments to the above-listed armor must not weaken the required armor in any way, including making holes in the fencing mask. Care should be taken while making custom armor to gain approval throughout the process. Any materials on the list may be subject to disapproval by individual gear inspectors even if initial approval might be given. Custom armor must be approved in person although a tentative approval might be given not in person. Material approval should be sought through TSL Leadership for testing and review which may add to the material being added to this document.
+
+### Section 2.06 Costuming
+
+While costuming may be encouraged within TSL, costuming may provide cause for armor to become disapproved. No costuming parts may be substituted for required protective armor unless the costuming part in the question itself meets the requirements established above. Any costuming parts may not take away from the protective quality of the armor piece being attached to, e.g. riveting parts to a fencing mask. Costuming may not be attached or constructed in such a way that the costuming part may cause injury to the user or the opponent, e.g. sharp protrusions or edges, tripping hazards, constriction or restriction of breathing or blood flow. While attempting to replace protective armor with costuming meeting the above requirements might result in the armor being disallowed, it is suggested that the user instead layer over or add to existing approved armor for easier approval.
+
+### Section 2.07 FAQ
+
+Q: Will *this* piece of armor work?
+A: If it meets the standards set above then maybe, it still needs to be inspected by an approved gear inspector. If not then it probably will not, but can still be inspected in person.
+Q: What about this Airsoft, Paintball, Steel, Kendo, Motorcycle etc… helmet/mask I found?
+A: No, approved fencing and HEMA masks only. These masks were chosen due to a high level of protection and a limited ability to cause damage to the opponent's blade.
+Q: Why do we have to wear so much armor?
+A: It's for safety, accidents happen, and even without accidents due to the dangerous nature of any "combat" sport, injuries will occur even if they haven't already.
+Q: Can I just wear normal work gloves; they have hard knuckles/padding?
+A: Only for Partner Exercises, not for sparring.
+Q: Can I paint my mask/armor?
+A: Of course! Safe customization is not only approved but recommended.
+Q: Why can't I use exposed metal armor?
+A: Through testing TSL has found that exposed metal armor of substantial quality to provide protection causes undue damage to polycarbonate blades, causing premature breaking which provides a danger to the fighters and any bystanders.
+Q: Where can I find armor that has been previously approved?
+A: Please check the TSL Facebook Group or individual charter groups (including the Women's charter if applicable).
+Q: Lacrosse gloves are too bulky; can I get anything more dexterous?
+A: Lacrosse gloves are the most economical gloves available for THE SABER LEGION, however, if the gloves conform to the standards, have them inspected by an approved gear inspector.
+Q: Why can't I use level 1 armor for the back of the head protection?
+A: level 1 armor does not prevent the transmission of force to the head and will not provide adequate protection from concussions or other brain damage.
+Q: Why should my helmet be slightly loose, I thought it should be tight?
+A: The goal of this is to prevent concussions from occurring, concussions occur when the skull is moved faster than the brain, causing the brain to "slosh" within the skull impacting the walls of the skull. By having the helmet worn slightly loose it allows the helmet to move independently from the head absorbing some of the force due to inertia before the helmet's padding is utilized. This also allows the padding in the helmet to be non-compressed before the initial impact.
+
+------------------------------------------------------------
+
+## Section 3 Safety, Honor, Sports-personship
+
+The Saber Legion is a full contact sport where 2 - 4 fighters spar at a charter meet or within a tournament setting. The Ruleset and Gear Requirements have been created to preserve the safety of all fighters when fighting within The Saber Legion, LLC requirements.
+
+### Section 3.01 Safety Rules
+
+1. The Coordinator of any Official TSL Event will be expected to ensure EMT services to be available within minutes should an injury occur.
+2. TSL Members are expected to participate safely and in their best frame of mind.
+   a. TSL Members found to be participating under the influence of any substance, legal or illegal, which significantly impairs motor function will be ejected from participating at the remainder of the event. This includes but is not limited to alcohol, marijuana, illegal drugs, heavy painkillers etc. (unless the TSL Member receives medical clearance for participation from a medical physician).
+3. TSL Members participate in each bout at their own risk and discretion.
+4. Hosting Reps and Directors should work with the facility to make all reasonable efforts to accommodate disabled fighters and spectators.
+5. TSL members participating in a sanctioned event may continue to utilize headphones or earbuds within their mask but may not utilize two way microphone communication during an active fight.
+   a. This means that fighters cannot have conversations inside their mask with someone.
+   b. Directors will instruct any fighter that is unable to hear the directors calls to remove their earbuds if they are unable to hear instructions by the line judges or directing team members.
+
+### Section 3.02 Code of Conduct
+
+1. Members and spectators are expected to follow the spirit of the event rules as well as The Saber Legion's Mission, Vision, Values.
+2. Members are expected to act professionally and respectfully to the officiating staff, participants, attendees, and vendors.
+3. Members should not throw gear, curse loudly, make threats to another, or engage in aggressive behavior during the event.
+4. While it is okay to be upset if you lose or perceive a bad call, all Members are expected to demonstrate polite behavior and act accordingly.
+5. Members are expected to compete with sportsperson-ship and self-control.
+6. Every bout should maintain a polite quality to all involved.
+
+### Section 3.03 Cornerstones and Coaches
+
+1. In accordance with the expectations of good sportsmanship of fighters in and outside of the ring, the fighter(s) will be held responsible for the behavior of anyone "in their 'corner'" (coaches or cornerstones) if they cause the director the inability to restarting a match, safety infractions including entering the ring, unsportsmanlike protest or/ and excessive or negative celebration (e.g name calling, sexualize gestures, etc,). Violations thereof will result in a Breach of Conduct penalty to the active fighter in the ring.
+
+### Section 3.04 Breach of Conduct Definitions and Penalties
+
+A breach of conduct is defined when an action taken by any applicable event participant (TSL Member, fighter and/or spectator) is against the rules and/or the spirit of the rules at a TSL event. This applies to all Members, fighters and/or attendees for any violation of the rules or spirit of the rules even if not covered specifically in this document.
+
+### 3.04a General Breach of Conduct
+
+1. Any event participant deemed to be engaging in a Breach of Conduct to others will be given a Yellow Card warning.
+2. As outlined in Section 3.03B, fighters can also be issued Penalties for Breach of Conduct by those in their corner. If further Breach of Conduct is observed, the event participant may receive a Point(s) Deduction in the current or an upcoming match.
+3. Additional Breaches of Conduct may result in a Black Card being issued. A Black Card disqualifies an event participant from current and all remaining division bouts.
+4. If the Director of a bout or other event staff (judge, event coordinator, owner, etc.) observes behavior that is deemed as poor sportsperson-like conduct, a fighter may be given a Yellow Card, Red Card or Black Card and immediately asked to leave the event depending on the severity of the offense.
+5. Members are always expected to follow the mission, vision, and values of TSL, gear requirements, and commands of the event staff. Failure to adhere to these standards can result in a Black Card Breach and the offender may be ejected from the event entirely based on the offense and at the event staff's discretion.
+
+### 3.04b Breach of Conduct Level
+
+- Yellow Card — First Official Warning (No Point Deductions). Warning given (Points awarded as normal). Official Warnings to TSL Members are maintained and tracked throughout the division to be cumulative (Ex. - 2 Yellow Cards=1 Red Card).
+- Red Card — (Point(s) Deduction). Fighter receives a point(s) deduction from their score in a current or upcoming match. Warning issued that another card will result in ejection from the division or/and tournament depending on the nature of the offense.
+- Black Card — (Ejection from the tournament, possibly event depending on violation). Forfeiture of current and all remaining division bouts. Once a Black Card is received, any further violation will result in an ejection from the event. Additionally, the fighter may be put on probationary status or even banned from future events, removed from TSL groups and blocked or removed from Social Media Pages.
+Fighters may be immediately ejected for drug use before a match or during an event, un-sportsperson like conduct, or profanity at directors, staff, or volunteers at any time.
+
+### Section 3.05 Injury or Equipment Failures
+
+1. If during a bout your saber malfunctions and no longer lights up, you will be allowed to continue the remainder of that bout but will be expected to have it repaired or replaced with another approved weapon before your next bout. If no replacement can be found, you will forfeit your next bout.
+2. If an injury occurs, or any equipment fails, the injured participant, owner of the damaged equipment, any Judge or Member must call for a reset of the bout.
+3. The injury or equipment must be inspected and cleared by the Match Director to continue before the bout can resume.
+4. If the fighter, director, event organizer, or any onsite medical professionals deem the injury is too severe or the equipment cannot be repaired or replaced by an approved piece of equipment the bout will be called.
+5. A medical or equipment malfunction hold must be resolved in a reasonable amount of time (director will call for a 3 minute medical hold if this is an official bout)
+6. The winner of the bout will be the Member with the most points.
+7. If the injured Member or the Member with the failed equipment cannot continue and was the winner by points, and the injury or equipment failure is deemed an accident then the losing Member will continue to the next round.
+8. If the Injury or equipment failure is deemed to be perpetrated purposefully then the perpetrator of the injury or equipment failure will forfeit all bouts and may be ejected from the event entirely depending on the severity of the infraction.
+
+### Section 3.06 Illegal Techniques
+
+1. Takedowns, grappling, kicks, pommel strikes, head-butts, hand checking, charging or other close combat techniques are not allowed.
+2. Incidental collision (shoulder bumping, etc.) will not be penalized if it does not result in gaining an advantage.
+3. No grabbing, blocking or manipulation of your own or your opponent's saber blade with your hands or feet (e.g., half swording, kicking the blade, etc.).
+
+### Section 3.07 Disarms
+
+1. If a Fighter loses his weapon, the opponent can still score a point.
+2. Becoming disarmed does not cause a Hold or Reset of a bout.
+3. Remember that punching, kicking, striking, and grappling of any kind is not allowed, however dodging strikes and attempting to recover the lost saber is allowed.
+4. HIGH GROUND RULE:
+   a. If a Fighter loses his weapon for any reason, the fighter may yield the point BEFORE being struck as the opponent can still score.
+   b. Unarmed Fighters who ring out (intentionally or incidentally) yield a point to their opponent.
+
+### Section 3.08 Honor Calls
+
+1. While not mandatory, it is considered a Mark of Honor to acknowledge each valid hit that is landed by your partner.
+2. While not mandatory it is considered a Mark of Honor to decline a point should you feel you have been awarded a point you did not earn or earned but were close to a breach of conduct (e.g., hitting too hard, fighting wild, a hit to a non-scoring area).
+3. The Ring Director has the final call when awarding or discarding a point created by a Member's honor call. Do not argue with the Ring Director when declining or acknowledging a point, as the Ring Director's decision is always final. It is the Ring Director's job to sort out all point scoring and fight timing.
+4. Honor calls are different from self-calling touches (which should be occurring at local charter meets).
+5. DO NOT use this privilege to call out invalid touches (e.g., fingers instead of hands) or to argue with the Judge's decisions. Continued un-sportsperson-like behavior will result in a Yellow Card.
+
+------------------------------------------------------------
+
+## Section 4 What is LED Saber Combat
+
+Whether you are attending your first charter meet or stepping into the ring at a large tournament, community combat is the foundation of what our sport is. The Saber Legion is a LED-saber combat sport. The LED-saber is our sword, and our combat is a recreational sport of swordplay that can be enjoyed by all people from a multitude of backgrounds. The Saber Legion has often been referred to as the MMA of sword combat as people from many backgrounds can test themselves against other martial and non-martial structures with one common weapon.
+
+When you begin sparring in The Saber Legion it will likely be at a charter meet. Make sure to review the Gear Requirements for Medium Intensity sparring at that time and work with your local Charter Representative or their empowered delegate(s) to make sure you are learning how to calibrate your strikes with different opponents. You will also begin learning how to spar within our tournament structure. Below are the guidelines for our established Valid and Invalid areas of strikes (hits) to your opponent's body. With the growth of TSL we are expanding our explanations of valid touches to help all fighters achieve the maximum opportunity for varied exchanges while in the ring.
+
+### Section 4.01 First Light Touch
+
+This is the main set of rules for TSL scoring during bouts. The logic behind the rules embraces the idea that a saber would not require much effort to deliver an incapacitating blow. Even a simple graze could potentially remove a limb. Excessive force is cause for a formal warning, yellow card, etc...
+
+Contact Types
+First Light Touch - this is the main set of rules for TSL scoring during bouts. The logic behind the rules embraces the idea that a saber would not require much effort to deliver an incapacitating blow. Even a simple graze could potentially remove a limb. Excessive force is cause for a formal warning, yellow card, etc…
+
+Contact types table (four columns, colour-coded green, light blue, yellow, red):
+
+VALID - CUT OR THRUST (green): Hold to assign point.
+A cut or thrust to the
+● Front and Side of the Head.
+● Body (Chest, Shoulders, Upper Back, Ribs).
+● Arms (Upper arm, Elbow, Forearm, Wrist).
+● Legs (Knee, Shin).
+
+VALID - CUT ONLY (light blue): Hold to assign point.
+● Abdomen
+● Lower back
+● Thighs
+
+NEUTRAL (yellow): No Hold or Point Assigned
+● Striking this area will not stop the match, and no points will be awarded.
+● It's treated as if striking air—there will be no stoppage of action.
+● If an initial impact occurs here, the match will only stop, or points will be assigned if a subsequent valid hit or invalid hit (to a critical area) follows.
+A cut or thrust to the
+● Hand
+● Hilt or any part of the saber
+* Incidental First Contact does not apply.
+* (Ex: On your way to the wrist you tap the hand, ignored by all)
+
+INVALID (red): Invalid area, hold required to assess point or medical hold. They are excluded for safety concerns.
+● Neck / Throat.
+● Back of the Head.
+● Groin
+● Feet
+
+### Section 4.02 Valid Touches
+
+1. Any contact of a Fighter's blade onto their opponent's body or armor during an exchange is considered a touch, no matter how light.
+2. A touch can be described as either a cut or a thrust.
+3. A cut is defined as a touch where the side of the blade makes contact.
+4. A thrust is defined as a touch where the tip of the blade makes contact.
+5. A Valid touch to a Valid Target area will score 1 point. There are no additional points awarded or weighted targets.
+6. Thrust and Cut Targets
+   1. Front and Side of the Head.
+   2. Body (Chest, Shoulders, Upper Back, Ribs).
+   3. Arms (Upper arm, Elbow, Forearm, Wrist).
+   4. Legs (Knee, Shin).
+7. Cut Only Targets
+   1. Abdomen.
+   2. Lower back.
+   3. Thighs.
+RED AREA ALERT: No touch, whether a cut or thrust, that lands on these targets will award points. Fighters who strike an invalid area will not be granted a point.
+[Figure: target body diagram, back view — green "Valid - cut or thrust": front and sides of the head, shoulders, chest/upper back, arms down to the wrists, knees and shins; light blue "Valid - cut only": abdomen/lower back and thighs; yellow "Neutral": hands; red "Invalid": back of the head and neck, groin, feet.]
+
+### Section 4.03 Invalid Touches
+
+1. After a Valid touch is completed, additional strikes will be considered after blows.
+   a. If a Fighter deliberately strikes an opponent well after a "touch" is recognized, it will be a Breach of Conduct.
+2. An invalid target will result in 0 points.
+   a. These afterblows may be considered a Breach of Conduct (Ring Director's discretion).
+   b. Any touch that is considered excessive force (Ring Director's discretion) will be thrown out and may be considered a Breach of Conduct.
+3. Invalid strikes to the groin, ankle, foot, back of the head, throat, etc. may cause a stop in the match and a determination for a medical hold for the fighter struck by the invalid hit.
+   a. However, an invalid single hit to the hands or any part of the saber is considered neutral and will not stop the engagement, will not be counted, and the match can continue until a valid target is struck.
+      i. If the director feels confident that the invalid target was hands only, the director may choose not to stop the fight and say "hands, continue" or "no point, continue".
+      ii. Since any part of the hand is a neutral target, a point should be called if the strike rolls into a valid target immediately thereafter since neutral targets do not invalidate valid targets.
+4. Any touches that land at the same moment (Ring Director's discretion) will be considered Simultaneous touches.
+   a. If two opponents receive a simultaneous call and fighter A's target is to an invalid area while fighter B's strike is to a VALID area the director can award the point to the valid target strike while invalidating the invalid target strike.
+5. Simultaneous touches will award no points to any Fighter for the first two occurrences in any bout.
+   a. On the 3rd occurrence, and all simultaneous touches after, a point will be deducted from both Fighters.
+   b. If either Fighter's score reaches 0, no points will be deducted from either Fighter for a simultaneous call.
+6. If a fighter intentionally blocks a valid target with their hands (e.g. blocking a head strike with a hand), the director can award a point for a valid strike.
+
+### Section 4.04 Invalid Targets
+
+They are excluded for safety concerns. Repetitive injury to another fighter will result in a Breach of Conduct. Table Judges should denote all penalties awarded to fighters on the table judging card.
+1. Neck / Throat.
+2. Back of the Head.
+3. Groin.
+4. Ankles and Feet.
+5. Hilt.
+
+### Section 4.05 Sparring vs Tournament
+
+From Wikipedia: "Sparring is a form of training common to many combat sports. Although the precise form varies, it is essentially relatively 'free-form' fighting, with enough rules, customs, or agreements to minimize injuries."
+Vs
+Tournament: From WikiDiff: "A series of games; either the same game played many times, or a succession of games related by a single theme; played competitively to determine a single winning team or individual."
+
+### Section 4.06 What is an Official Bout
+
+An Official TSL Bout is defined as any occurrence inside a TSL Ring or Event Arena between Official TSL Members during any Official TSL Event.
+1. Official TSL Members MUST have read, signed and filed the TSL – Membership and Hold Harmless Agreement with their local Charter Rep and/or current Event Coordinator.
+2. All Official TSL Bouts must be officiated by an approved Consular or Tournament Director, C.I.T with FC or ND oversight or T.A.R in emergency situations.
+   a. If a TSL event is large enough that it exceeds the number of Directors, Full Charge Consulars and C.I.T's available, only a National Director may empower a Temporarily Appointed Referee (TAR) to act as a Fight Director for the Pools in that event (TAR's are defined as a TSL Member with directing experience at their local meets, Regional Community Events or Underground Series Events. TAR's cannot direct CS , semifinal, or final matches) .
+
+### Section 4.07 Variant Rules for Any Event.
+
+Any event can employ variations of the rules if they are:
+1. Articulated to first in the request to host an event by the Event Organizer, Director and the Fighters involved in the bouts prior to the event and
+2. Reviewed by the Sports Management Team and
+3. Approved by the Leadership Council Team
+The Event Organizer, Director, and the Fighters were involved in the bouts prior to the event. A prime example is the Term Bouts employed at the Championship Series allowing for different weapons measurements, ring measurements, and/or adding/omitting certain rules listed above. If there are any questions about the regulations of any tournaments the organizing members should send a message through the TSL Community Facebook messenger.
+
+------------------------------------------------------------
+
+## Section 5 Tournament Structure
+
+Our Tournament Fighting structure has been developed specifically for The Saber Legion over the last seven years and is influenced by many other common styles of sword combat. However, while similar, it has unique rules that separate it from other styles and this is often based on the LED influence of our weapon. The goal of all TSL rules is to promote a style of saber combat that is safe, skillful, artful, honorable, and fun. The following General Rules are implied to be in effect and enforced at all Official TSL Events unless otherwise stated. If not stated specifically, refer to the Mission, Vision, Value statement to review the spirit of the rule.
+
+### Section 5.01 Practicing for Tournaments at Local Meets
+
+Working with your charter representative you can begin High-Intensity training to attend open events in the community and begin testing yourself against other fighters. Learning how a match operates will help you develop the structure of how we evaluate, score, and compete against other fighters in the ring.
+
+### Section 5.02 Ring Requirements
+
+All bouts will be conducted with a designated area referred to as a Ring. The area should be clearly marked off and free from any obstruction or materials that might cause accidental slips, falls, or present any danger to the Fighter, Officials, or any other event participant (e.g., wet grass, loose dirt, leaves, holes, etc.). The ceiling height of the area must also be adequate so that all Fighters are able to extend their saber above them without obstruction. The ring must also have additional safety distance from its border to ensure that spectators and foot traffic will not be harmed by Fighters (or their gear) exiting the ring unexpectedly and/or equipment failures.
+1. The standard ring size is 25' x 25'.
+2. (If the size of the event space cannot accommodate this, then a 22' x 22' ring may be used for standard LED saber matches only and a ring out call will apply only if both feet are outside the ring).
+
+### Section 5.03 Bout Time Rules
+
+With the growth of TSL we are adding new ways of keeping time, helping to organize and control event times and guaranteeing the Fighters maximum opportunities for varied exchanges while in the ring. Of course, keeping the classic TSL Total Bout Time format as a standard is assumed.
+
+### Section 5.04 Total Bout Time - ORIGINAL METHOD OF TIMEKEEPING
+
+1. Total bout time runs the clock from the Ring Director's first command of "Fight!" through the timer expiration.
+2. Standard time is 5 minutes (this can be adjusted per event need).
+3. Score to create a winning scenario is 10 points (this can be adjusted per event need).
+4. Holds will not stop the timer.
+5. Resets will always stop the timer (5-point reset, safety reset, ring-outs, etc.).
+6. (Table judges will announce loudly the remaining time increments at 1 minute, 30 seconds, and when the time expires. Sudden death will have a timer of 1 minute and an attempt to score must occur in the first 30 seconds or both Fighters forfeit.
+
+### Section 5.05 Guaranteed Fight Time - CURRENT METHOD OF TIMEKEEPING
+
+1. Guaranteed fight time will only run the clock during an exchange.
+2. The clock must stop at every hold, reset, safety call, gear failure, injury, ring out etc. (any action that causes the Fighters to disengage with a Ring Director's or Judge's command).
+3. Standard timer is 2 minutes and 30 seconds (this can be adjusted per event need).
+4. Score to create a winning scenario is 10 points (this can be adjusted per event need).
+5. Table will loudly announce the remaining time at increments of 30 seconds, 15 seconds and at 0 seconds the table will call for a "Final Exchange".
+6. When the table judge announces "Final Exchange" the Fighters continue fighting until an event occurs that would cause a hold or reset.
+7. If no attempt to score has been made in a reasonable amount of time after the Final Exchange call (Ring Director's discretion), then the Ring Director will end the bout with no point awarded.
+8. Once the final Exchange resolves the bout is over. If a tie, then sudden death occurs.
+9. Sudden death will have a timer of 30 seconds.
+
+### Section 5.06 Ring Summons at Tournament
+
+Fighters are expected to be aware of their bout times and be present to keep the event running smoothly. Fighters may receive a pool or time assignment. Missing a set time for your bout time will automatically generate a loss at a 0 to 10 score.
+1. Fighters or fighters' pools will be called to the ring to begin their bout. Please listen closely as the event staff will announce who is next to bout and who should be gearing up to bout.
+2. At scheduled events (such as CS series) please pay attention to who is fighting so you know when your scheduled fight will occur.
+3. Any Member who is missing when called, unable to be located or not adequately prepared to fight, when they are summoned for their bout, may forfeit the bout (Ring Director's discretion).
+
+### Section 5.07 Bout introduction & Starting the Bout at Tournament
+
+1. The Ring Director will call the Fighters to enter the ring and ask the Fighters to acknowledge the Judges by acknowledging the table.
+   a. For tournament pools, all Fighters should acknowledge the table as a group at the beginning of the pool at this time only to meet requirements of sportsperson-like conduct.
+2. When the Fighters acknowledge the table, it is considered an indication that they have read these rules and will fully abide by them.
+3. The Fighters will then be asked to acknowledge their fellow Fighter.
+4. The Ring Director will ask the Fighters to take their place inside the ring and make sure they are ready to begin by asking "Fighters Ready?".
+5. The Fighters should acknowledge verbally or with an obvious physical cue to let the Ring Director know they are ready.
+6. Fighters are expected to hold their position in the ring until the word "Fight!".
+7. Moving to engage or gain an advantage after the Ring Director asks, "Fighters Ready?" but before the word "Fight!" creates a Foot Fault, a Breach of Conduct and a "Hold".
+8. The Ring Director will begin the bout with the word "Fight!", the Timekeeper will also start the clock for the bout at this time.
+
+### Section 5.08 Bout Exchanges
+
+1. An exchange is defined as the time between the Ring Director's call of "Fight" and any occurrence that stops the Fighter's actions.
+2. The "Exchange" is the only portion where Fighters can score points.
+3. At the Ring Director's call of "Fight", the Fighters are expected to attempt to score a legal point as determined by the event format.
+4. Fighters should not stop in action until the Ring Director calls a "Hold" or "Reset".
+5. "Exchanges" are repeated until a winning scenario is reached.
+
+### Section 5.09 Bout Holds
+
+1. When a "Hold" is called the Fighters will disengage out of quick striking range but remain in their current location in the ring and await the result of the 'Hold". Fighters DO NOT have to reset to corners.
+2. Once the "Hold" is resolved the Ring Director will once again ask "Fighters Ready?" and then resume the action with the word "Fight!".
+
+### Section 5.10 Bout Resets
+
+1. When a "Reset" is called the Fighters will disengage and go to opposing corners and await the results of the "Reset".
+   a. Fighters must remain in their corners until the Ring Director calls to "Fighters Ready?" and then resume the action with the word "Fight!".
+   b. Exotics matches must reset after each point has been assigned.
+
+### Section 5.11 Ring Outs
+
+1. A Ring Out is called when one foot of any Fighter completely leaves the ring barrier.
+2. Once the ring out occurs, no points can be scored, and a "Reset" is called.
+3. Ring Outs will "Reset" both fighters to their original corners and Ring Directors will continue the match until a "valid exchange" occurs or the fighter behind concedes the match.
+4. If a valid touch occurs at the same time as the fighter accidentally steps out of the ring, then the point may still be awarded.
+5. Ring outs do not satisfy a final exchange.
+   a. Intentional ring outs will generate a red card removing one point to their score (as stated above in the policy for red cards).
+
+### Section 5.12 Switching Sides
+
+1. When the first Fighter in a bout reaches half of the total points of a winning score (e.g., 5 of 10 or 4 of 7) the Table Judge(s) will inform the Ring Director to initiate a "Reset" and ask the Fighters to switch starting corners.
+2. A "RESET" to starting positions, in the opposite corner, should still occur even if the Fighters have already "switched sides" during the bout engagements.
+
+### Section 5.13 Winning Scenarios
+
+1. The first Fighter to reach a winning score for the event will be awarded the bout win.
+2. When the timer reaches 0 seconds remaining the scorekeeper will announce "Final Exchange"
+   a. Final Exchange here is further defined as: both fighters aiming to score a point and being resolved by the Ring Director as a call of "Point Awarded, Simultaneous (in which no point are awarded), or "No Call" in which the situation is unsafe, or the action has become so disorganized that the referee can no longer follow it.
+   b. HOWEVER, If the score differential between fighters is only one point (e.g. Score is 8-9) during Final Exchange, a point must be awarded to satisfy a "valid exchange". Simultaneous and "No Call" exchanges will not end the match in this scenario.
+3. If the timer expires before the winning score is reached, then the Fighter with the highest score is awarded the bout win.
+4. In the event of a tie there will be a Sudden Death Round.
+5. The Ring Director will announce the final outcome of the bout.
+
+### Section 5.14 Sudden Death Round
+
+1. In the event of a tie at the end of a bout, there will be an extra round.
+2. See Bout Time Rules for round length and specifics.
+3. If a valid point is not scored by the end of the sudden death round, both Fighters will be given a loss for the bout.
+
+------------------------------------------------------------
+
+## Section 6 Official TSL Events
+
+Official Events are defined as events hosted by a charter or representative of the Saber Legion and having approval by submitting the online application and being approved by the Event Approval group of the Sports Management Team.
+1. At least one officially approved International Tournament Director or Full Charge Consular (not a Consular in training, or C.I.T.) must be in attendance and will act as the Event Director (unless previously approved by TSL Leadership Council).
+2. If the Event features a CS Title Match or a ranked match, then an officially approved Tournament Director or Full Charge Consular must direct those matches.
+   a. Consulars In Training (C.I.T.'s) may only direct ranked matches with supervision from a Full Charge Consular or National Director.
+
+Official Event Types
+Below is an overview of the current list of possible official event types. When reaching out to the Sports Management Team for event approval, please use the Event Submission Checklist so you can easily specify what event type will be proposed. Charters do not receive any monetary benefit or stipend from The Saber Legion, LLC national currently to host an event. Charters who choose to host this event do it at their own expense.
+
+### Section 6.01 Annual International Tournament
+
+This annual event is held at the Tournament Level Gear as described in the TSL – Membership and Hold Harmless Agreement. This event is held for the purpose of gathering all members from around the world and to give anyone the opportunity to participate and compete on an international platform and determine who is the top-performing fighter in LED Saber Combat that day. Currently, all divisions are represented at our annual tournament where we invite all fighter to attend.
+This event will feature multiple contests such as the Standard Saber International Tournament, Exotic Saber, Women's Division, and Master's 50+ divisions and may run with varying ruleset combinations as described later in this document. While prizes may be awarded, this event exists for the growth of our international community and to promote the sport of saber combat worldwide.
+
+### Section 6.02 Regional Events Hosted by Charters Worldwide
+
+Regions: Regions are divided into 5 areas: West, South, Midwest, North East and International.
+[Figure: map of the United States coloured by region, and a world map showing the International region. US states as coloured on the map — West: WA, OR, CA, NV, ID, MT, WY, UT, CO, AZ, NM, AK, HI. Midwest: ND, SD, NE, KS, MN, IA, MO, WI, IL, MI, IN, OH, KY. South: TX, OK, AR, LA, MS, AL, GA, FL, TN, SC, NC. North East: ME, NH, VT, MA, RI, CT, NY, NJ, PA, DE, MD, DC, WV, VA.]
+
+### Section 6.02a Regional Events requirements
+
+As these events are part of the RANK system, they require the same level of gear as the International Open Tournament. . These events represent the largest growing tournament type as it provides accessibility and community sharing opportunities to all members around the world. They allow for all members to sign up and participate as these are open events where any TSL member can participate if they complete the registration and have the approved gear set that will be reviewed and checked onsite. These events are organized and run by a host charter or region, officiated by a Consular/ Director, and approved and advised by the Sports Management Team. (e.g., FL Open, Bladetoberfest, Starfighter, Saber Strong, etc.).
+1. As defined by the Event Coordinators agreement of 2022 - 2023 no region can host an event 2 weeks before or 2 weeks after any other event has claimed and been approved to host a tournament at the annual calendar meeting in the SAME region.
+2. Each Region can not host more than THREE Regional Tournaments per year. Regions should independently discuss which charters are the most capable to host these and submit their calendar items on the Event Host Annual Meeting.
+
+### Section 6.02b Official Tournament Open Pool
+
+A round robin event with pools is configured by splitting the players or teams into two or more pools or playing groups. Every player or team will play every other one in their pool. A designated number of the top players or teams in each pool will move on to a playoff event.
+There are multiple approved formats for matching and advancing TSL Members during an event. Any of the below formats may be present at an event and can be mixed and matched per the event needs. When submitting an event for TSL approval, the event coordinator must specify which format(s) will be used. Please review the Event Management Guide for more specific information.
+
+### Section 6.02c Pools and Bracket
+
+1. Pools will be seeded randomly, taking into consideration Members' home charters.
+2. Pools should not contain Members of the same charter if possible.
+3. Pools should not be larger than 4 Members per pool, if avoidable.
+4. The winner of a pool should have a total number of wins; if tied, then total points scored; If still tied then lowest points scored against.
+5. Winner(s) of each pool will seed a Single Elimination Bracket
+6. The bracket may be seeded by pool numbers corresponding to predetermined bracket position, entirely randomly or with the random mindset used in the Single Elimination Bracket Bout Format topic above.
+7. As defined by Leadership in January 2023 and the Stakeholders meeting on February 2023 Regional Tournaments should be entered into Challonge and set to the following standards:
+   a. Majority of 4 person pools = 2 fighters advance from Standard Pools to Single Elimination.
+   b. Majority of 5 person pools = 1 fighter advances from Standard Pools to Single Elimination.
+   c. No pools can be smaller than 4 unless there are drops on that day and no replacement can be found.
+   d. No pools can be utilized with more than 5 fighters and still be counted for RANK for any reason. Pools larger than 5 can only be utilized in community events, charter meets, etc.
+   e. Any event not utilizing this will not be entered into the National Ranking program.
+   f. All data must be sent to Sports Management within 30 days to appear in the Ranking program.
+
+### Section 6.02d Single Elimination Bracket
+
+1. This format features a standard single elimination bracket.
+2. The bracket should be seeded randomly while attempting to make sure no participating Members' first bout is against a member of their home charter.
+3. For Regional Tournaments, this may not be possible. Every attempt to stagger members from the same charter, satellite, or school area should be made for the benefit of community engagement.
+
+### Section 6.03 Championship Series Events
+
+The Championship Series Events (CS) are always hosted at a charter level, officiated by a Consular/ Director, and regulated by the Sports Management Team. When applying to host this event type, a charter representative will complete an event application online and submit it to the Event Management Team, then final card approvals are approved by the Championship Series Card approval team. Event coordinators for these types of events should review the submission guide for sending scores through the approved RANK submission process outlined in the Event Guidelines manual.
+They are invitational events for the promotion of our sport by matching fighters at different locations to enhance fighters on the world stage and give the opportunity for Divisional Championship Matches to the TSL CS – World Champion. All Rank determinations will be regulated by the Rank Team of Sports Management. (e.g., Armageddon, Darkwatch, Suncrusher)
+
+### Section 6.03a Championship Series Single Match
+
+This is the main format used during the Championship Series Events.
+1. The invited TSL Members have only a single match.
+2. A match consists of 3 bouts.
+3. The TSL Member with the best 2 of 3 bouts, wins the match.
+
+### Section 6.03b Invitational Championship Series Event Selection Process
+
+1. All participants must be in good standing with TSL at the start of any event.
+2. Volunteers helping to run any event must be approved by the Event Coordinator.
+3. Participants attending the International Tournament as a fighter must be a current TSL Member at the time of the event start.
+4. TSL Members participating as Fighters in a Regional Tournament or CS event must:
+5. Be in good standing with their home Charter.
+6. Have attended at least one Charter Meet with a Charter Rep or Facilitator present.
+7. Have fought in at least one Charter Meet, using approved TSL Gear, under the supervision of a Charter Rep, Consular, or Director.
+8. TSL Members wishing to participate in CS events should work on the below traits both before and after communicating their wish to be considered for CS:
+   a. Primary Considerations (per Charter Rep recommendation)
+      i. Experience (fights, meets attended).
+      ii. Contribution
+      iii. Reliability (attendance, and ability to follow through).
+      iv. Sports-personship (interaction with TSL Members, in and out of the ring).
+   b. Secondary Considerations
+      i. Fighting style (to showcase a variety of fighting styles).
+      ii. Ability to work a crowd (to engage the audience).
+      iii. International Rank (if applicable).
+   c. Final Considerations
+      i. Fighting prowess (to exhibit all skill levels and show accessibility).
+      ii. CS mission awareness (in the event of a mismatch, a good CS fighter should dial themselves back without sacrificing the integrity of the fight. Audiences engage with drama and excitement, and optimally no fighter should ever win a CS bout by more than three points)
+9. Championship Series Cards are designed by the Event Coordinator and their team based on the rank for each division as well as the information listed above. Any Belt match for a Championship Series event MUST receive approval from the Leadership Team before being publicly promoted at any CS event.
+
+### Section 6.03c Championship Series Belt
+
+The Championship series Belt is attained by fighters who have been selected based on their place within the Standard Rank.
+1. All CS Belt holders MUST schedule a match within 6 months of winning the Championship Series belt and defend it no less than once per year.
+2. Fighters who wish to defend the belt or fight for the belt must do so at their own expense.
+3. Fighters who are unable to meet these rules must vacate the belt.
+4. Once you have had the opportunity to fight for the Championship Series Belt you can not challenge again for one year or/and until one other fighter has challenged for the belt and completed their match.
+
+### Section 6.04 Community Building Event Types
+
+These events are not regulated as part of the Ranked Divisions and opportunities for TSL. Examples include events like Underground Matches, Demos at Cons, War, Patchapalooza, and other community activities that enhance and enrich the sport of LED Saber Combat, but do not meet the standard for Ranked events. These events do not have to be approved by the Event Management Team unless the coordinator is looking for official certification members to attend and/or Media team members to complete services for these events.
+Event Coordinators who are looking for National Leadership Team members' support and/or service should still complete the approval form if they are looking for those additional services. (e.g., Underground, Demos, Patch Exchange events).
+
+### Section 6.05 Official Tournament Other
+
+Any additional format ideas need to be approved through Sports Management if rank or a title is involved. Additional Ruleset ideas may be reviewed and tested by the Research and Development section of Sports Management, in cooperation with the Community Team and/ or Charter and Member Support Team.
+
+------------------------------------------------------------
+
+## Section 7 Officials and Volunteer Community Duties
+
+The Saber Legion is proud that many of our fighters are also officials for bout matches. All Event staff should be applauded for their efforts. As a volunteer organization, we could not hold tournaments without the efforts of countless members stepping up to help regulate and officiate these matches. It is often required that fighters also contribute to the tournament they are attending by Line Judging, Ring Directing, or Table Judging depending on the training and abilities. During official TSL bouts Ring Directors, Line Judges, and Table Judges will be used for each ring. Below are the positions within the Tournament Structure.
+
+### Section 7.01 Gear Inspector
+
+A gear inspector can be a certified member that has been trained to specifically inspect High Intensity or Tournament Level gear to make sure that it meets the guidelines as described in this document. A Gear Inspector can also be someone from the Event Coordinating Team, Directing Team, or Officers Team.
+1. Before the event begins, the Event Coordinator, Director, FCC, C.I.T, and/or Gear Inspector will verify with the participating TSL Members what gear level is expected at the event.
+2. Inspect all required gear for fit and function, gear must fit well and be in good working order.
+3. If any questions arise, verify with the event Onsite Director to make sure the gear is cleared and/or allowed.
+4. The official TSL Onsite Event Director always has the final decision.
+
+### Section 7.02 Ring Director
+
+An official moderate the match to ensure that the rules and sportsmanship are adhered to and arbitrate on matters arising from the bout. Ring Directors make the final call when determining the Line Judges' assessment of points in each bout. Of note: at charter meets or at practices, anyone can serve as a Ring Director. For certifying matches for Championship Series, Regional or International Tournament Directors need to be training in the International Certification Program of Fight Director Training and should be a C.I.T, FCC or National Director.
+1. At the start of each match verify with each Judge to make sure they have completed their pre-bout duties and are ready for the match to begin.
+2. Will call the Fighters into the ring and direct the Fighter's actions for the remainder of the bout.
+3. Will verify each point with the Line Judges (visually and/or verbally if needed).
+4. Will direct the Fighter's actions at the end of the bout.
+5. Announce the final winner of the bout.
+6. Will verify with the Table Judges all data has been recorded and advanced correctly.
+
+### Section 7.02a What is a National Director?
+
+Specifically a National Director has earned the title through multiple years of experience as well as serving the community as a Director and often as a representative or leader on additional teams. They apply and are approved on the merit of their work and by consensus of the National Directors team and ownership. National Directors today are for what comes after ruleset updates. They are the onsite ruleset interpreters for the letter and the spirit of the ruleset. National Directors are the authority on training and interpreting the ruleset, governing the rings, and helping others understand policy/ruleset. National Directors are also the only Directors that can empower a T.A.R (temporarily appointed referee).
+
+### Section 7.02b What is a Full Charge Consular?
+
+Directors who have completed the National Directing training program and submitted for status with experience hours as well as 2 recommendations from current team members and have received the approval from the training National Director. Full Charge Consulars can direct any match, ranked or unranked, as well as 1st contender and belt matches (per update to Version 2.0, 2020 rule update). Full Charge Consulars can also host events by their local charter with or without the assistance of the local charter rep.
+
+### Section 7.02c What is a C.I.T?
+
+Consulars in Training or C.I.Ts can now direct any match, even ranked matches, but there must be a Full Charge Consular or National Director present for oversite. C.I.Ts are primary for Pools and secondary for Single Elimination Standard and Exotics matches. Whenever possible C.I.Ts should not direct for finals matches. C.I.Ts may NOT function as Event host and may only assist onsite FCC or NDs. The application to become a CIT opens each August and classes begin in October and last through July. C.I.Ts must attend Nationals and complete experience hours at that time unless otherwise excused.
+
+### Section 7.02d Directors compensation and retention
+
+Certified Directing Team members who volunteer as Staff for any event outside of their local charter event should be offered some sort of compensation for attending and serving the community. This can be in the form of lodging, transportation, tournament passes, meal passes, etc.
+
+### Section 7.03 Line Judge
+
+Line Judges can be anyone who trains, attends a Line Judging seminar, or reviews stock footage on the YouTube account to learn the techniques of Line Judging for Saber Legion matches. A CLJ or Certified Line Judge is a participant (fighter or volunteer) who trains through a specific program to gain a higher status or reliability and accuracy. CLJs should be utilized whenever possible especially for high ranking or top 4 matchups whenever possible.
+1. Pre-bout, Line Judges will give both Fighter's gear a final check (especially the gorget as it is hidden under gear) and place the color designators on the Fighters (armbands).
+2. Score points fairly during the bout.
+3. Follow the Ring Director's instructions and answer Ring Director's queries.
+4. Assist with any gear malfunctions as needed.
+5. Retrieve the color designators at the end of the bout.
+To learn more specifics about becoming a Certified Line judge please join the Certified Line, Judging group.
+
+### Section 7.04 Table Judge
+
+1. A Table Judge can be a Scorekeeper, Timekeeper or both as required for the event.
+2. Pre-bout, Table Judges (or announcers if applicable) will announce who has won the last match, who is participating in the next match and who is preparing to arm (otherwise known as "on deck").
+3. The Table Judges will begin each match with the assigned time placed on a countdown timer.
+4. The Table Judges will make sure the scorecards begin at 0 and are advanced according to the Ring Director's instructions during the bout.
+5. The Table Judges will communicate to the Fighters and Judges at the assigned timer and score marker for resets and warnings.
+6. The Table Judges will communicate the time and/or score to the Judges or Fighters when verbally asked.
+7. Record all final bout information as needed for the event. Advance the Fighter(s) to the appropriate bracket positions, record any warnings or cards issued to Fighter(s) and reset the timer and scorecards for the next bout.
+
+------------------------------------------------------------
+
+## Section 8 Tag Team Division: Specific Rule Set Requirements
+
+These are rules variations for team battles. It is assumed all previous rules apply except for where the rules below specifically state a change. All Team Bouts can use either the Standard or Exotic Weapon Rule set. This must be clearly defined before any bout begins and the entire event must be held with those stated rules.
+
+### Section 8.01 Tag Team Structure Difference: Bout Type Defined
+
+1. A match for 2 teams, consisting of 2 Fighters per team, a total of 4 Fighters.
+2. The fighters who started the match must complete the match. A team cannot be switched or modified later in the event (even if one partner cannot go on).
+
+### Section 8.02 Tag Team Structure Difference: Bout Introduction
+
+1. All 4 Fighters must enter the ring to pay respects at the beginning and end of the match.
+2. After respects are given, one Fighter from each team must return to their team's corner and remain outside the ring in that corner, until a switch has been recognized.
+
+### Section 8.03 Tag Team Structure Difference: Bout Rules
+
+1. Only one Fighter at a time from each team may be in the ring during an active match.
+2. Tag Teams will NOT "Switch Sides" at 5 points. However, even if they have already switched fighters, they will complete a mandatory switch of that team's Fighters at this time.
+3. Either Tag Team Fighter may initiate a switch after the Ring Director has given the command "Fight", and before the Ring Director calls a hold or reset.
+4. Tag Team members can now Tag their partner during the match or/and during the Hold.
+   a. HOWEVER, Fighters cannot Tag while awaiting the award of a point after an exchange has occurred. After the director awards the point any Tag Member can Tag their partner on a Hold or during the action of the match.
+5. To have a switch recognized by the Line Judging team, a Fighter must touch their teammate with their hand(s) (no saber touches, foot touches etc.).
+6. When a touch/ "tag" is made, any Judge can recognize the action by stating "TAG".
+7. When a touch/ "tag" is MADE, the opposing Fighter MUST disengage.
+8. The Action by either Fighter may NOT continue UNTIL the incoming fighter has BOTH feet in the ring.
+9. There is no need to wait on the ring director's call of "Fight".
+   a. If a tag is attempted before an exchange or a ring out occurs, the tag is recognized, and no points are rewarded.
+   b. If a tag is attempted, but an exchange initiated between the fighters occurs before the touch, then the tag is discarded, points awarded.
+   c. If any team's Fighter who is currently outside the ring, steps inside the ring before a recognized tag, a hold will be called, and a "ring in" yellow card is given.
+10. Any further unrecognized "ring in's", by either team Member on a team with a "ring in" warning already given, will result in a point awarded to the opposing team.
+   a. If any team's Fighter who is currently outside the ring, steps inside the ring before a recognized switch, a hold will be called, and a "ring in" warning given.
+   b. Any further unrecognized "ring in's", by either team Member on a team with a "ring in" warning already given, will result in a point awarded to the opposing team.
+
+### Section 8.04 Tag Team Structure Difference: Simultaneous hits
+
+1. Simultaneous hits create a mandatory switch instead of point deductions, beginning with the very first simultaneous hit called.
+2. At the simultaneous hit call, instead of switching, either team may opt to have a point taken from their score to keep their own teams' current Fighter in the ring.
+3. At the simultaneous hit call, if a team has no points to deduct, they must switch Fighters.
+
+### Section 8.05 Tag Team Structure Difference: Sudden Death Round
+
+Directors must confirm with the table that fighters are in "Sudden Death" NOT Final Exchange.
+1. At the Beginning of a Sudden Death Exchange, Fighters may decide which fighter begins the exchange (even if they were not the active fighter during Final Exchange).
+   a. This decision must be made in a few seconds.
+      i. Directors will give a warning to any team unable to choose a fighter within a few seconds.
+2. If a Simultaneous occurs during Sudden Death it will force a switch of both teams' current fighters.
+   a. The Simultaneous option to deduct a team point in order to keep the current active fighter from switching is disabled during Sudden Death.
+   b. You may not tag your partner while in "Sudden Death",
+      i. except in the case of disarms (below).
+      ii. The only time active fighters will switch during Sudden Death is in the case of a Simultaneous (above).
+
+### Section 8.06 Disarms
+
+1. Disarms in Tag are handled as previously stated in the Standard Division Ruleset with one additional option:
+   a. If the Active Fighter in the ring becomes disarmed they may try to Tag in their partner.
+   b. If they are successful and can make a tag before being touched by the opponent the tag will be recognized.
+      i. If the fallen saber is still laying in the ring it may cause a "Hold" to remove the fallen saber if necessary. If a Hold is called, The Director will then Restart the match by instructing Fighters to "Fight".
+
+------------------------------------------------------------
+
+## Section 9 Unity Ruleset
+
+Special Addendum Update: Unity
+In an effort to address the safety and issues discovered with testing the Unity Division at TSL7 the following updates to the ruleset have been discussed and proposed by the Sports Management Team and Approved by the Leadership Council for The Saber Legion. They will go into effect at the next Regional Event hosting Unity Division matches: Bladetoberfest for Testing and be added to the next rule update 5.0B for March 2024 if they all improve the overall structure of this division. Updates are highlighted in yellow.
+[Note: the yellow highlighting from the PDF is not reproduced in this text.]
+
+### Section 9.0 Unity Ruleset Description
+
+The goal of TSL is to allow members from every background to compete together in a safe, fun, and exciting way. Unity is another way we fulfill that mission. Unity has also been referred to as "Continuous Fighting". Members must be aware of the differences in requirements before attempting to participate in this event at any tournament.
+
+While we encourage all fighters to participate in this ruleset it requires fighters to demonstrate knowledge of the ruleset BEFORE being allowed to compete. Fighters must demonstrate knowledge in TWO ways:
+1. By Completing the online ruleset knowledge review with no less than a 85% score AND
+2. Completing a one on one review with certified members of the Unity approvals instructing team.
+Any fighter who registers for an event and does NOT complete this will NOT be allowed to compete. Fighters who certify as Unity fighters will hold this designation until a time in which they demonstrate they are no longer proficient in this ruleset.
+
+### Section 9.01 Unity Variants and Structural Differences
+
+Like all other TSL Rulesets Unity will implement all TSL Standard Tournament Rules, Codes of Conduct, etc unless specifically superseded by an addendum or supplement here. In an effort to meet the needs of our growing organization, this ruleset is meant to offer another division type to members who seek cinematic styling or members with martial backgrounds who want to try something different or potentially compatible with their fighting style.
+
+### Section 9.02 Bout Time Rules
+
+1. Unity allows for two different Time Rules; these are subject to time limitations and/or the availability of Battle Music. Three suggested round times are as follows:
+   a. 60 seconds - 4 Person Pools
+   b. 90 seconds - Single Elimination Matches and CS matches option
+   c. 120 seconds - Only for CS matches with verified fighters who elect this
+2. A complete bout can be either 1, 2 or 3 rounds to determine a winner performed in Single Elmination or Pools.
+3. Variations must be approved by Sports Management in advance including modified times, number of rounds, etc. Failure to do so may result in a tournament not being included in the ranking program. "approved in advance" needs to be petitioned at least 90 days prior to the event to facilitate the sports management team review and approval process.
+
+### Section 9.03 Battle Music
+
+Music is an important component of the continuous nature of Unity. Not all event hosts may be able to meet this standard. However this ruleset was created in part to reference the cinematic styling of martial and combat attacks, therefore battle music is discussed here to support that styling.
+1. When Hosting Unity across 3 rings the Media should start the music on the call of the center director. That director will call to begin and the music should start. Fighters should also begin when the center director calls Fight.
+
+### Section 9.03a Music Available
+
+1. Music should NOT contain lyrics whenever possible
+2. Music must be non-copyrighted music with the appropriate rights obtained if streaming or recording matches.
+3. Music must be projected loud enough for all participants to easily hear when the music starts and stops.
+   a. Battle music without vocals, singing, or talking is preferred.
+4. Music must have the same or similar length in duration to the bout. Music may also be edited for time to a round length.
+5. The bout should end when the battle music ends, however, if fighters are still engaged after the music ends, a "Final Exchange" may be called.
+
+### Section 9.03b No Music Available
+
+The Unity Ruleset was created to be accompanied by battle music, however, if music is not available the following modification can be utilized without music.
+1. Total bout time runs the clock from the Ring Marshall's first command of "Fight!" through the timer expiration.
+2. Standard time is 90 seconds
+3. Holds will not stop the timer unless directed by the Ring Marshall.
+   a. The Ring Marshall can stop any match to redirect a fighter about engagements or/and safety or medical concerns. No additional time will be placed back on the clock if this occurs.
+   b. Resets will not stop the timer UNLESS a Ring Director asks for the timer to HOLD the time.
+4. The Table Judge will call "final exchange" when the clock expires and the fighters are still engaged (within striking distance) to allow for one last exchange.
+
+### Section 9.04 Valid Contact Points
+
+While Standard TSL rulesets allow for a "touch" to count as a valid hit point, Unity does not. Hit or contact points will only be adjudicated when solid pressure is applied to a valid target area.
+
+### Section 9.04a Solid Contact
+
+Solid Contact rules do not dictate or imply an increase in the force of a strike that is different from Light Touch rules. The same rules for excessive force apply in Solid Contact rules. Overpowered or unsafe strikes are still prohibited. A strike deemed excessive force will stop the match with a Marshall's hold and result in Breach of Conduct penalties for a Fighter.
+a. Draw Cuts or Slices that begin chambered and move no less than 45 degrees and glide from one side to the other of an opponent (but not into their body more than a 1 inch or 1 quarter size deep.
+b. Strikes may make a percussive contact but "bounce" off the protective gear due to the gear material. It should be significant enough for the audience to see on the armor but not more than 1 inch in to the opponents gear.
+c. a hands-width portion of the body of the blade makes contact with a valid area after passing through the requisite arc of motion (at least 45 degrees) without interruption by an opponent's parry.
+[Figure: a quadrant diagram with arrows showing cuts crossing from one quadrant to another, and a US quarter coin next to a ruler (1.000 in / 0.950 in) illustrating the 1 inch / "quarter size" depth limit.]
+
+### Section 9.04B Invalid Contact
+
+Solid contact does not mean adding a wind up. This is not baseball. Fighters must be in control of the saber, and the impact of their blade. Fighters who lose control of their saber can force a Hold call by the Marshall and penalty assignment.
+
+### Section 9.05 Strike Types and Terms
+
+The following terms are used through the Unity Ruleset and are how matches are judged for points. Fighters must begin in Cente Line and/or Chamber their sabers, to begin with a 45-degree arc EACH time they intend on scoring a point.
+
+Any movement that does not begin Chambered will be unscorable. Judges will discount any landed strike that does not begin within a chambered position.
+
+Centre line: An imaginary vertical line that bisects the body, Or the pivot point that goes through the head/hips/feet into the ground.
+a. A valid touch beginning no less than through the centerline of a fighter where a hands-width portion of the body of the blade makes contact with a valid area after passing through the requisite arc of motion (at least 45 degrees) without interruption by an opponent's parry.
+
+Chambered Attacks: to put one's saber in a preparatory position before performing a movement
+b. Chambering here means that you cannot begin any valid strike without beginning ALL targeted hits by arching your saber behind you to begin. A beginning point is measured at no less than 45 degrees for the type of strike.
+[Figure: silhouette with the saber drawn back behind the shoulder from point A to point B, showing the chambered starting position.]
+
+Sweeping Cuts: A stroke or blow is made with the edge of the blade as opposed to the tip.
+c. cut through an estimation of a 45-degree arc or complete a movement that begins in one quadrant (Depicted in the picture as a box color) and moves to another quadrant, (Depicted in the picture as a different box color).
+[Figure: a square divided into four coloured quadrants (green, blue, yellow, red) with numbered arrows showing cuts that start in one quadrant and finish in another.]
+
+Thrust: An attack with the point.
+d. A thrust may only be utilized from a standing position once you are in measure with your opponent. An attacking thrust is made with one foot forward and the back leg straight (known as a lunge) and with the sword arm beginning behind the centerline of your body (chambered) before extending into an outstretched arm. A thrust may only be delivered one handed to the touch of your opponent. Excessive use of force during a thrust will cancel the awarded point and reset the fighters to corners before beginning any additional engagements.
+[Figure: silhouette of a fighter lunging with a one-handed thrust.]
+
+*Of Note to Fighters: Two-handed thrusts are not allowed
+
+### Section 9.06 Invalid Strike Types
+
+1. Charges are NEVER allowed.
+   a. Any fighter who runs or charges into measure and strikes their opponent will cause a HOLD in the match and reset to corners and any points from that exchange will be removed and a penalty card potentially issued.
+2. Simultaneous Valid Touches are not awarded.
+   a. Simultaneous is defined: as when both fighters' blades were in motion at the same time when both attacks landed.
+      i. Fighters must disengage following a valid touch or simultaneous valid touch. Fighters who do not disengage after landing a targeted valid strike will not receive a point.
+      ii. A valid disengage is when both fighters are out of immediate striking distance and the blades don't touch (See Section 9.09).
+   b. Revenge Strikes: A fighter that consistently refuses to disengage after a Valid Touch automatically will receive a Breach of Conduct penalty.
+      i. A Fighter who makes initial conduct and does not attempt to get away but rather continues to hit their opponent over and over.
+      ii. A Fighter who makes attempts and Afterblows that do not land and chase their opponent around the ring without disengagement.
+
+### Section 9.06a Afterblows
+
+The afterblow is a rule whereby if you strike an opponent, they have a period of time that they may use to strike you back. If they are successful, then it will nullify your original hit against them. The initiating fighter who scored a valid hit must retreat safely, as your opponent still has an opportunity to strike you back.
+1. An opposing fighter is allowed to deliver a Valid strike called an Afterblow IF their blade was in motion during the delivery of an Initial Contact.
+   a. The opposing fighter's blade must already be in motion to deliver an Afterblow before the Initial Contact lands.
+   b. If the Initial Contact lands and the opposing fighter's blade is not ALREADY in motion, any Afterblow is not valid.
+2. An Afterblow must also adhere to the rules of a Valid strike for it to nullify Initial Contact.
+3. A Single Afterblow already in motion to the fighter in Right of way with initial contact will nullify the initial point if contact occurs within 1 second of the originating blow.
+4. After these actions (Initiating Valid Strike and Afterblow) both fighters MUST Disengage from action out of measure before initiating additional strikes.
+Fighters who engage in more than 3 Late After Blows will have ONE POINT removed from their overall score at the table as a result of a Breach of Conduct penalty. More than 3 LATE AFTER BLOWS will result in the match being stopped and / or a Hold by the Ring Marshall to redirect the fighter.
+
+### Section 9.07 Scoring Points
+
+To score a point, the initiating fighter must get in cleanly (without being hit), strike utilizing one of the VALID STRIKE TYPES (without being hit), and withdraw cleanly (without being hit).
+1. When a fighter uses Valid Strike Types they receive one point.
+   a. This will only be awarded to the fighter who lands Solid Contact to a Valid Target AND it is delivered without their opponent simultaneously landing a Valid target before the fighter can retreat.
+2. A maximum of 1 landing strike (A Valid Hit or 1-second Afterblow) from either fighter before disengaging when attempting to score a point each time.
+
+### Section 9.07a Simultaneous / Doubles
+
+Simultaneous landing hits will be identified by the Marshal as "DOUBLES" and any points for that exchange are disregarded by the line judges.
+1. Simultaneous hits occur at the same exact time, they are not after blows.
+2. After the 2nd double, all subsequent doubles will require a reset to the nearest corners before fighters can begin any advancement or engagement with their opponent.
+
+### Section 9.08 Mandatory Disengagement
+
+While each fighter's goal is to score a valid point, once ONE fighter has initiated and delivered a Solid Contact strike, they may only receive the point IF they can disengage from their opponent and not get hit by the opponent (also known as an Afterblow) as they are retreating.
+1. After any perceived successful touch, it is the responsibility of the fighter who achieved it to attempt to immediately safely disengage to a reach out of measure (defined as the position where either fighter would have to take a step forward to be able to reach their opponent).
+2. Their Opponent may Void the point by making a solid contact valid hit (an Afterblow) as long as the movement is in action as they are struck.
+   a. If their Opponent is ABLE to score a valid point with an afterblow then no point can be assessed and the fighters must disengage.
+   b. If they are UNABLE to make a valid point, the point will be for the original initiating fighter and BOTH fighters MUST Disengage to a distance outside of the field of contact or beyond measure.
+   c. Fighters not completing a Mandatory Disengagement can be in Breach of Conduct (Director's discretion) and/or using Excessive Force.
+3. A Fighter is considered in Breach of Conduct and will be penalized if determined by the Ring Marshall's discretion to
+   a. Use Excessive Force
+   b. Pursuing an opponent who is attempting to retreat after Afterblow time has expired.
+   c. Turning your back on an opponent in an attempt to disengage or avoid a valid strike.
+
+### Section 9.09 Roles of the Line Judges and Ring Marshall
+
+Unlike TSL rulesets where the Ring Director assigns points aloud to the Table Judges, here the Ring Director is referred to as a "Marshall" as they assign "Doubles", "Enforce Mandatory Disengagement" and regulate safety protocols only.
+
+### Section 9.10 Ring Marshall
+
+The Ring Marshall functions as the director but will not assign points for the match. They will however use the following terms to direct the fighters in the match:
+Terms:
+- Hold — A Marshall will call Gold when time has expired if Fighters have not stopped fighting at the end of the music / 90-second clock. [Note: "Gold" is as printed; it appears to mean "Hold".] ● Additionally for any Medical Emergency or ● Excessive Force or any penalty
+- Double — Like a Simultaneous but must occur exactly at the same time. 1 second after is considered an Afterblow. ● mandate that both fighters return to their originating corners
+- Break — A Marshall will call "Break" if Fighters do not disengage in a reasonable amount of time if a Mandatory Disengagement ● After any Break both Fighters must safely disengage to a reach out of measure (defined as the position where either fighter would have to take a step forward to be able to reach their opponent).
+
+### Section 9.11 Judging
+
+1. All Judges need to monitor the Initial Strike (Placement and Validity) and the timing for an Afterblow to determine scoring and ignore any other subsequent touches until after the Mandatory Disengagement.
+2. Line Judges on different sides of the ring mentally tally valid points for both fighters so general discrepancies and similarities can be discerned during the final scoring.
+3. Line Judges score the match independently counting the valid scores in their head or when possible using a push counter.
+4. The Marshall can call out a Simultaneous Valid Touch or Invalid Touch by saying "DOUBLE" during the match, vetoing a point.
+   a. Line Judges will disregard that exchange and retract any awarded point.
+5. Fighters are not limited on the number of points they can accrue.
+6. Line Judges report their observed scores individually to the table judge after the round is over to determine the Round Winner.
+
+### Section 9.12 Winning Scenario
+
+1. Each Judge should have individually and silently kept track of the awarded scores of both fighters.
+2. Once the bout duration is over, the Table Judge should calculate the reported scores together to determine the winner.
+
+### Section 9.12a Winning Scenario Pools
+
+1. During a Pool match fighters can tie. If line judges report a score where the table judge awards a tie Challonge can record ties. In this scenario fighters can end a match on a tie.
+2. During a Single Elimination match if the Line Judges report a tied match the fighters will return to the ring for Sudden Death.
+   a. Sudden Death here is resolved by Marshall only. Sudden Death will be until the first Valid Touch with Disengagement is scored. While Line judges can confirm with the Marshal in sudden death it is not required.
+
+Thanks to the editors, content providers, those who worked on this over two weeks with constant update requirements, votes, and compromises.
+Alain Bloch: Co Creator of Unity / Directing Team Member
+Seth Clendenning : Sports Management Lead/ National Director - WI
+Clint Darby: Directing Team Member/ Sports Management Team member - MD
+Gilbert Gordon: Sports Management Team member - VA
+Melodie Graham: Event and Training Lead / National Director - FL
+David Laudenslager: Co Creator of Unity/ Sports Management team member/ National Director- CA
+Ryan McKenna: Directing Team Member/ Sports Management Team member - VA
+Alec McLoughlin Martinez: Directing Team Member/ Sports Management Team member - FL
+
+------------------------------------------------------------
+
+## Section 10 Contacting TSL Leadership
+
+If you have any questions, concerns or feedback regarding these rules you can contact TSL directly through our electronic means.
+General Questions: Please contact the TSL Facebook messenger Community Group. It will be directed to one of the following teams that oversee and manage the different aspects of The Saber Legion, LLC.
+Administration Team Lead:
+❖ Charter and Member Support Team Lead: Tony Saffioti
+❖ Community, Diversity, and Inclusion Team Lead: Andy Cameron
+❖ Media and Marketing Team Lead: David Laudenslager
+❖ Website Management: Jared Graham
+❖ Officers Team: Charley Cummings
+❖ Sports Management Team Lead: Seth Clendenning
+
+------------------------------------------------------------
+
+## Section 11 Credits and Version Updates
+
+[Note: this is the document's change history. Section and rule numbers mentioned below refer to the numbering at the time of each change and may not match the current section numbers above. The current rules are the sections above.]
+
+### Section 11.01 Changes: Version 4.0: Release Date April 2023 (first entry)
+
+◆ Edits, Updates, and Written: Seth Clendenning
+◆ Copy Editor: Seth Clendenning, Alec Martinez, Melodie Graham
+◆ Unity Ruleset: Original Writers Alain Bloch and David Laudenslager, 3.0 Updates Sports Management/ Melodie Graham, Current Updates: Seth Clendenning, Alec Martinez, David Laudenslager
+◆ New Graphics by Melodie Graham and Seth Clendenning
+◆ Sports Management Team revisions, and approvals by: Alec Martinez, Clint Darby, Gilbert Charles Gordon, Tiffiny Hagan, Nathan Pumphery, , and Seth Clendenning.
+Approved by 2024-2025 Leadership Council Members
+Additional Updates:
+➢ Update: Hand Definition of Neutral
+➢ Update: Clarification of Neutral
+➢ Update: Additional Unity Clarification
+
+### Section 11.01 Changes: Version 4.0: Release Date April 2023 (second entry)
+
+◆ Edits, Updates, and Written: Melodie Graham
+◆ Copy Editor: Seth Clendenning, David Laudenslauger
+◆ Gear Revisions and Updates: Mark Carico and Alec Martinez
+◆ Tag Team Variant Ruleset: Aaron Rieley and Terry Roland Birnbaum II, Updates Sports Management/ Melodie Graham
+◆ Unity Ruleset: Original Writers Alain Bloch and David Laudenslager, Updates Sports Management/ Melodie Graham
+◆ Exotics Updates and New Light Ruleset: Jared Graham and Seth Clendenning
+◆ Graphics by Jared Graham, Aaron Rieley, and Melodie Graham
+◆ Sports Management Team revisions, and approvals by: Alec Martinez, Clint Darby, Gilbert Charles Gordon, Tiffiny Hagan, Mark Carico, Nathan Pumphery, Russell William, and Seth Clendenning.
+Approved by 2023-2024 Leadership Council Members: Charley Cummings, Erik Rimblas, Jared Graham, Melodie Graham, Erik Haltson.
+Additional Updates:
+➢ Update: Tsuba measurements and guidelines
+➢ Exotics Light updated to primary Exotics Division
+➢ Update: Dual Weapon to include Crossguards
+➢ Update: Crossguard to update angled guards
+➢ Update: art for gear guide: Melodie Graham
+➢ Update: Safety Rules 3.01 - 5 Headphones
+➢ Addition: Cornerstones and Coaches 3.03
+➢ Updates: General Breach of Conduct : Card colors and assignments
+➢ Addition: High Ground Rule 3.07 Disarms
+➢ Update: Section 4.03 Invalid touch: 4.03-4 and 5
+➢ Addition: Regional Event Regions and Event hosting abilities
+➢ Addition: Section 6.02c Pools and Bracket: Pool clarification for rank
+➢ Change: 6.03b-9 CS selection Process:CS card design
+➢ Addition: 6.03c Belt governing rules
+➢ Clarification: 7.02a Directors titles and duties
+➢ Update: Tag Team: Section 8.03 - 2 Bout Rule NO SWITCH of fighters corners
+➢ Update: Tag Team: Section 8.03 - 2 All Fighters switch at 5
+➢ Update: Tag Team: Section 8.03 - 3 Either Tag Team Fighter may initiate a Tag
+➢ Update: Tag Team: Section 8.03 - 4 Tag Team members can switch during a Hold
+➢ Update: Tag Team: Section 8.03 - 6 Switch converted to "TAG" to signal a tag was made
+➢ Clarification: Tag Team: Section 8.03 - 7 When the tag is MADE, the opposing fighter MUST disengage
+➢ Addition: Tag Team: Section 8.03 - 8 No Action until BOTH fighters are back in the ring with both feet
+➢ Addition: Tag Team: Section 8.05 - 1 & 2: Sudden Death Clarification to Simultaneous and Tag Ability
+➢ Addition: Tag Team: Section 8.06 - 1 Fallen Sabers Allow fighters to attempt to Tag their corner
+➢ Update: Unity: Section 9.02 Bout Time Rules
+➢ Update: Unity: Section 9.03b: Marshall Duties clarification
+➢ Clarification: Unity: Section 9.04 Valid Contact Points
+➢ Update: Unity: Section 9.05 Strike Types
+➢ Addition: Unity: Section 9.06a Solid Contact Points and Scoring: Disengagement
+➢ Clarification: Unity: Section 9.06b Invalid Strike Types
+➢ Clarification: Unity: Section 9.07 Afterblows
+➢ Addition: Unity: Section 9.08 Mandatory Disengagement
+➢ Addition: Unity: Section 9.08B Mandatory Disengagement
+➢ Update: Unity: Section 9.10 Ring Marshall Wording for Simultaneous hits updated to Double
+➢ Clarification: Unity: Section 9.11 Judging - placement and validity
+
+### Section 11.02 Changes: Version 3.0: Release Date March 2022
+
+◆ Edits, Updates, and Written: Melodie Graham
+◆ Copy Editor: Seth Clendenning
+◆ Gear Revisions and Updates: Mark Carico
+◆ Tag Team Variant Ruleset: Aaron Rieley and Terry Roland Birnbaum II
+◆ Unity Ruleset: Original Writers Alain Bloch and David Laudenslager
+◆ Revisions and Edits: Melodie Graham and Mark Carico
+◆ Exotics Updates and New Light Ruleset: Jared Graham
+◆ Graphics by Jared Graham, Aaron Rieley, and Melodie Graham
+◆ Sports Management Team revisions, and approvals by: Alec Martinez, Brenon Day, Carlos Garcia,Clint Darby, Gilbert Charles Gordon, Tiffiny Hagan, Lucas Holzhueter, Mark Carico, Nathan Pumphery, Russell William, and Seth Clendenning.
+Approved by 2021-2022 Leadership Council Members: Charley Cummings, Erik Rimblas, Jared Graham, Gabriel Paz, Ruthmarie Hodges, Melodie Graham.
+Additional Updates:
+● Reorganization of ruleset materials
+● Addition of MVV (1)
+● Added: Why do we require protective gear? (Section 2.01)
+● Addition of Special Addendum publish 10.27.21 for ring out and final exchange (Section 5.11)
+● Addition of Tsuba standardization (Section 1.0)
+● Clarification of Community Building Event Types (Section 6.01d)
+● Clarification of Pool standards, number of fighters, and winning scenarios (Section 6.02)
+● Removal of Intentional vs unintentional breaches (Section 3.04a)
+● LED Saber Combat Defined (Section 4)
+● Addition of Sparring vs Tournament (Section 4.05)
+● Addition of Tournament Structure Clarification (Section 5)
+● Addition of Practicing at Meets for Tournament (Section 5.01)
+● Ring Requirements Update - Standard and Exotics (Section 5.02)
+● Consular in Training Update Duties and Responsibilities (Section 6.01c)
+● Additional to Volunteer Duties and Community Standards (Section 7.0)
+● Clarification for Volunteer Duties vs National Certified Members (Section 7.01-7.04)
+
+### Section 11.03 Changes: Version 2.0B: Release Date March 2021
+
+◆ Written by Aaron Rieley, Melodie Graham
+◆ Graphics by Jared Graham and Aaron Rieley
+◆ Editors: Jared Graham and David Laudenslager
+Reviewed by: Sports Management Group: Melodie Graham, Russell Bradley, Mark Carico, Seth Clendenning, Clint Darby, Carlos Garcia, Gilbert Gordon, Tiffiny Hagan, Lucas Holzhueter, Ryan Kappes, David Laudenslager, Alec Martinez, Nathan Pumphery, and Gabriel Paz.
+Leadership Council Group: Charley Cummings, Jared Graham, Melodie Graham, Ruthmarie Hodges, David Laudenslager, Gabriel Paz, Aaron Rieley, Jimmy Sourlie, Aymee Thurston.
+Adopted and Approved by: Owner Charley Cummings, and The Saber Legion, LLC.
+◆ Updated all references of previous Owners or "TSL Leadership" to appropriate governing Team
+◆ Update to Add MVV wording
+◆ Clarification for CS inclusion
+◆ Updated references of "Sportsmanship" to Sportspersonship or Sportsperson-like.
+◆ Updated National references to International (Per International Relations Coordinator)
+◆ Updated regulations for Saber Approvals to Research and Development
+◆ Clarification to Onsite Director and Ring Director
+◆ Update Saber blade length to 39 inches.
+◆ Of note: Still not to go over the 51-inch overall standard saber length
+◆ Added Previous Credits to TSL Official Event Rules and Guidelines.
+◆ Application for Regional and Championship Series Events redefined from Terry Birnbaum or TSL Leadership to Sports Management Team with Final Approval by Leadership Council.
+◆ Director defined as Ring Director.
+◆ Judge further defined as Table or Line Judge.
+◆ Event Submission Checklist Updated
+◆ Added Copyright Statement to Footer
+◆ Correct Grammar or/and Spelling Errors
+
+### Section 11.04 Changes: Version 2.0 Release Date March 2020
+
+◆ Version 2.0 2020 - 2021: Release Date January 2020
+◆ Written by Aaron Rieley, Melodie Graham
+◆ Graphics by Jared Graham and Aaron Rieley
+◆ Editors: Jared Graham and David Laudenslager
+Adopted and Approved by: Owners: Terry Birnbaum, Charley Cummings, and The Saber Legion, LLC.
+◆ Added Tsuba ruling to Cross guard sabers (4-H-VIII)
+◆ Re-added blade length specifics to Cross guard sabers (4-H-II and III)
+◆ Updated GFT Final Exchange call from 5 to 0 seconds (7-B-V)
+◆ Updated allowed Consular responsibilities (3-A-II)
+◆ Updated no grabbing of blades to include feet (3-L-III)
+◆ Numbered all sections for ease or rules referencing
+◆ Added rule for clavicle protection on motor cross jackets (3-I-IV)
+◆ Updated Tag Team rules for fight timing after a tag (8-A-b-IX)
+◆ Updated the Championship Series Events type to include the new belts (1-C)
+◆ Updated Pools and Bracket description to reflect current TSL practices (2-B)
+◆ Updated Exotic Saber Requirement to opposite corners instead of 20' apart (4-D-I)
+◆ Added TAR verbiage for directing events (3-C-III)
+◆ Added Other-Abled fighter and spectator verbiage (3-D-V)
+◆ Added certified blades "Tape" verbiage to Saber Requirements (3-J-XII)
+◆ Added Parabolic Tips (3-J-X)
+◆ Added Medical / Equipment Failure Hold should be reasonable in length (3-K-V)
+◆ Clarified ring out and point scoring timing (5-F)
+◆ Clarified the Switching Sides 5-point rule (5-H-II)
+◆ Added Line Judging actions to align with CLJ content (5-G-I and III)
+◆ Added Valid – Invalid Target Visuals (6-F)
+◆ Added additional format ideas verbiage (2-D)
+◆ Corrected grammar and spelling errors
+◆ Clarified medical prescriptions/participation.
+◆ Contact Information Updated
+
+### Section 11.05 Changes: Version 1.0 Release Date March 2019
+
+◆ Version 1.0 2019 - 2020: Release Date March 2019
+◆ Written by Aaron Rieley
+◆ Graphics by Jared Graham and Aaron Rieley
+◆ Edited by Jared Graham, Melodie Graham, and David Laudenslager
+Reviewed by: Tom Amoroso, Tom Badillo, and Kay Sakaue
+Adopted and Approved by: Owners: Terry Birnbaum, Charley Cummings, and The Saber Legion, LLC.
+◆ This is the initial release of this document
+◆ Replacing all previous versions of the TSL Tournament rulesets
+◆ Moving to a document that will allow the ease of proposing and planning Official TSL Events
+◆ Clarifying rules specifics from previous TSL Rulesets to begin this document with the clearest possible representation of the rules allowed under the TSL banner at events representing the organization.
