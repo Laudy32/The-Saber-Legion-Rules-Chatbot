@@ -9,8 +9,7 @@ settings, `WORKER_URL` and `TURNSTILE_SITE_KEY` — see `../worker/README.md` fo
 setup.
 
 The look follows the rulebook PDF: white background, Calibri-style headings,
-Times-style body text, and its warm tan and cream colours. `emblem.png` and
-`watermark.png` are the emblem from the PDF's page watermark (low resolution).
+Times-style body text, and its warm tan and cream colours. `emblem.png` is the emblem from the PDF's page watermark (low resolution).
 To use an official, sharper logo, upload it to this folder and change the
 `src` of the `<img class="logo">` tag in `index.html`.
 
