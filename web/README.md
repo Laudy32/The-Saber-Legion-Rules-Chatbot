@@ -9,9 +9,8 @@ settings, `WORKER_URL` and `TURNSTILE_SITE_KEY` — see `../worker/README.md` fo
 setup.
 
 The look follows the rulebook PDF: white background, Calibri-style headings,
-Times-style body text, and its warm tan and cream colours. `emblem.png` is the emblem from the PDF's page watermark (low resolution).
-To use an official, sharper logo, upload it to this folder and change the
-`src` of the `<img class="logo">` tag in `index.html`.
+Times-style body text, and its warm tan and cream colours. `logo.png` is the official TSL logo supplied by the maintainer (transparent
+background, resized to 400px). To change it, replace that file.
 
 ## Why it works this way
 This page is copied from the SoCal Swordfight rules chatbot. Its first version
