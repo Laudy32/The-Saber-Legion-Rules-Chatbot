@@ -6,30 +6,35 @@
 <title>Saber Legion Rules Helper</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Oswald:wght@700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Carlito:wght@400;700&family=Tinos:wght@400;700&family=Orbitron:wght@700&display=swap" rel="stylesheet">
 <style>
   :root {
     color-scheme: light;
+    /* Colors and type taken from the Saber Legion rulebook: white pages, black
+       Calibri headings, Times body text, and the warm tan of its Mission/Vision/Values graphic. */
     --bg: #ffffff;
     --panel: #ffffff;
-    --border: #e9e9ea;
-    --text: #242a36;
-    --muted: #6b6f78;
-    --accent: #1f4fa8;
-    --gold: #2f8fff;
-    --user-bubble: #e6eefb;
-    --bot-bubble: #f4f5f7;
+    --border: #e4d5c5;
+    --text: #1a1a1a;
+    --muted: #6f6256;
+    --accent: #7a6454;
+    --gold: #bea28c;
+    --user-bubble: #ead9c6;
+    --bot-bubble: #fdf1e3;
     --error: #b3261e;
   }
   * { box-sizing: border-box; }
   html, body {
     height: 100%;
     margin: 0;
-    background: var(--bg);
     color: var(--text);
-    font-family: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    font-family: "Tinos", "Times New Roman", Times, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }
+  html {
+    background: var(--bg) url("watermark.png") center 45% / min(560px, 95vw) no-repeat fixed;
   }
   body {
+    background: transparent;
     display: flex;
     flex-direction: column;
     max-width: 720px;
@@ -37,20 +42,29 @@
     padding: 0 12px;
   }
   header {
-    padding: 16px 4px 10px;
+    padding: 18px 4px 12px;
     border-bottom: 3px solid var(--gold);
+    text-align: center;
   }
   header .logo {
     display: block;
-    height: 56px;
-    margin-bottom: 8px;
+    height: 84px;
+    margin: 0 auto 6px;
   }
   header h1 {
-    font-family: "Oswald", sans-serif;
+    font-family: "Carlito", Calibri, Arial, sans-serif;
     font-weight: 700;
+    font-size: 1.6rem;
+    margin: 0 0 2px;
+  }
+  header .tagline {
+    font-family: "Orbitron", "Carlito", sans-serif;
+    font-weight: 700;
+    font-size: 0.7rem;
+    letter-spacing: 0.22em;
     text-transform: uppercase;
-    font-size: 1.45rem;
-    margin: 0 0 4px;
+    color: var(--gold);
+    margin: 0 0 8px;
   }
   header p {
     margin: 0;
@@ -71,13 +85,15 @@
     padding: 10px 13px;
     border-radius: 12px;
     line-height: 1.45;
-    font-size: 0.95rem;
+    font-size: 1.02rem;
+    border: 1px solid var(--border);
     white-space: pre-wrap;
     overflow-wrap: anywhere;
   }
   .msg.user {
     align-self: flex-end;
     background: var(--user-bubble);
+    border-color: var(--gold);
     border-bottom-right-radius: 3px;
   }
   .msg.bot {
@@ -131,7 +147,7 @@
     border: none;
     background: var(--accent);
     color: white;
-    font-family: inherit;
+    font-family: "Carlito", Calibri, Arial, sans-serif;
     font-weight: 700;
     font-size: 0.9rem;
   }
@@ -144,8 +160,9 @@
 <body>
 
 <header>
-  <img class="logo" src="logo.svg" alt="The Saber Legion">
-  <h1>Saber Legion — Rules Helper</h1>
+  <img class="logo" src="emblem.png" alt="The Saber Legion: United Through Sabers">
+  <h1>The Saber Legion — Rules Helper</h1>
+  <p class="tagline">United Through Sabers</p>
   <p>
     Answers come from the official Saber Legion rulebook. Questions are sent to an AI
     service (Google Gemini) to be answered, so please don't include personal

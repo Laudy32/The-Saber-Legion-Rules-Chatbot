@@ -8,8 +8,10 @@ https://laudy32.github.io/The-Saber-Legion-Rules-Chatbot/. The page has two
 settings, `WORKER_URL` and `TURNSTILE_SITE_KEY` — see `../worker/README.md` for
 setup.
 
-`logo.svg` is a simple drawn placeholder (a saber over "THE SABER LEGION").
-To use an official logo instead, upload it to this folder and change the
+The look follows the rulebook PDF: white background, Calibri-style headings,
+Times-style body text, and its warm tan and cream colours. `emblem.png` and
+`watermark.png` are the emblem from the PDF's page watermark (low resolution).
+To use an official, sharper logo, upload it to this folder and change the
 `src` of the `<img class="logo">` tag in `index.html`.
 
 ## Why it works this way
